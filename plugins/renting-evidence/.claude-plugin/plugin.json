@@ -1,0 +1,9 @@
+{
+  "name": "renting-evidence",
+  "description": "Answers questions about renting in Victoria, Australia from 1,177 cited, dated primary sources - Consumer Affairs Victoria, the Residential Tenancies Act 1997 and VCAT - instead of training-data folklore, and says which commonly repeated renting rules a primary source contradicts, which are backed, and which nobody could source. Victoria only, and not legal advice.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Lotlsoft",
+    "url": "https://lotlsoft.com"
+  }
+}

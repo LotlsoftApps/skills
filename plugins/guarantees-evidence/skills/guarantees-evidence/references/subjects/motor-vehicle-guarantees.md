@@ -1,0 +1,268 @@
+# motor vehicle guarantees
+
+Compiled 2026-08-16. Every claim carries the date its quote was true; the ACCC and the state regulators rewrite their guidance without announcing it, and this corpus found three of them publishing different maximum penalties at the same time.
+
+## Summary
+
+Written from the claims below and checked against them.
+
+Consumer guarantee rights under the Australian Consumer Law apply to new and second-hand cars bought from a licensed dealer, and a dealer must assist the consumer and must not tell the consumer to go to the manufacturer for a remedy. State and territory statutory warranty obligations, cooling-off periods and most Australian Consumer Law obligations do not apply to private sellers of second-hand cars, but private sellers must still guarantee clear title, undisturbed possession and no undisclosed securities. In Victoria, a licensed motor car trader must provide a statutory warranty if the car is less than 10 years old and has travelled less than 160,000 kilometres; that Victorian used-car statutory warranty lasts 3 months or 5,000 kilometres, whichever comes first, and it does not apply to motorcycles, commercial vehicles or cars sold at public auction. In February 2024, the Federal Court ordered Mazda to pay $11.5 million in penalties for misleading nine consumers about their consumer guarantee rights after the consumers were told the only remedy was repair despite multiple unsuccessful repair attempts, including complete engine replacements.
+
+## Claims (59)
+
+### Documented position (40)
+
+- **[documented-position]** Motor vehicle guarantees, according to the ACCC, have consumer guarantee rights that apply under the law to new and second-hand cars bought from a licensed dealer.
+  - as of: 2026-06-28
+  - quote: "apply under the law to new and second-hand cars when you buy from a licensed dealer."
+  - source: https://www.accc.gov.au/consumers/specific-products-and-activities/new-and-second-hand-cars
+- **[documented-position]** the ACCC states that a car dealer must assist a consumer with a remedy.
+  - as of: 2026-06-28
+  - quote: "The dealer must assist and must not tell the consumer to go to the manufacturer for a remedy."
+  - source: https://www.accc.gov.au/consumers/specific-products-and-activities/new-and-second-hand-cars
+- **[documented-position]** the ACCC states that a car dealer must not tell a consumer to go to the manufacturer for a remedy.
+  - as of: 2026-06-28
+  - quote: "The dealer must assist and must not tell the consumer to go to the manufacturer for a remedy."
+  - source: https://www.accc.gov.au/consumers/specific-products-and-activities/new-and-second-hand-cars
+- **[documented-position]** The ACCC states that motor vehicle guarantees cannot be replaced, changed or taken away by voluntary warranties on cars.
+  - as of: 2026-06-28
+  - quote: "Voluntary warranties cannot replace, change or take away the automatic rights consumers have."
+  - source: https://www.accc.gov.au/consumers/specific-products-and-activities/new-and-second-hand-cars
+- **[documented-position]** Motor vehicle guarantees, according to the ACCC, require a car manufacturer or importer to provide spare parts for a reasonable time after purchase.
+  - as of: 2026-06-28
+  - quote: "A manufacturer or importer must provide spare parts and repair facilities for a reasonable time after purchase."
+  - source: https://www.accc.gov.au/consumers/specific-products-and-activities/new-and-second-hand-cars
+- **[documented-position]** Motor vehicle guarantees, according to the ACCC, require a car manufacturer or importer to provide repair facilities for a reasonable time after purchase.
+  - as of: 2026-06-28
+  - quote: "A manufacturer or importer must provide spare parts and repair facilities for a reasonable time after purchase."
+  - source: https://www.accc.gov.au/consumers/specific-products-and-activities/new-and-second-hand-cars
+- **[documented-position]** The ACCC's documented position on motor vehicle guarantees states that most consumer guarantees do not apply to second-hand cars bought through private or auction sales.
+  - as of: 2026-06-28
+  - quote: "Most consumer guarantees and state and territory laws don’t apply to second-hand cars bought through private or auction sales."
+  - source: https://www.accc.gov.au/consumers/specific-products-and-activities/new-and-second-hand-cars
+- **[documented-position]** The ACCC's documented position on motor vehicle guarantees states that most state and territory laws do not apply to second-hand cars bought through private or auction sales.
+  - as of: 2026-06-28
+  - quote: "Most consumer guarantees and state and territory laws don’t apply to second-hand cars bought through private or auction sales."
+  - source: https://www.accc.gov.au/consumers/specific-products-and-activities/new-and-second-hand-cars
+- **[documented-position]** Concerning motor vehicle guarantees, the ACCC states that car dealer licensing is administered and regulated by state and territory agencies.
+  - as of: 2025-12-10
+  - quote: "Car dealer licensing is administered and regulated by state and territory agencies."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[documented-position]** The ACCC states that motor vehicle guarantees do not entitle consumers to a repair, replacement or refund on a car if the problem was caused by the consumer misusing it.
+  - as of: 2026-06-28
+  - quote: "If the problem with the car was caused by the consumer misusing it, they are not entitled to a repair, replacement or refund."
+  - source: https://www.accc.gov.au/consumers/specific-products-and-activities/new-and-second-hand-cars
+- **[documented-position]** Consumer Affairs Victoria states that a Victorian licensed motor car trader must provide a buyer with a statutory warranty if the car is less than 10 years old and has travelled less than 160,000 kilometres.
+  - as of: 2023-10-13
+  - quote: "You must provide a buyer with a statutory warranty if the car is less than 10 years old and has travelled less than 160,000 kilometres."
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/motor-car-traders/running-your-business/obligations-used-car-sales
+- **[documented-position]** Consumer Affairs Victoria states that a Victorian used-car statutory warranty lasts for 3 months or 5000 kilometres after purchase, whichever occurs first.
+  - as of: 2025-06-26
+  - quote: "A statutory warranty lasts for 3 months or 5000 kilometres after purchase, whichever occurs first."
+  - source: https://www.consumer.vic.gov.au/consumers-and-businesses/cars/buying-a-used-car/warranties
+- **[documented-position]** Consumer Affairs Victoria states that even after the Victorian statutory warranty expires a buyer still has rights under the Australian Consumer Law they can rely on if there is a problem with the car.
+  - as of: 2025-06-26
+  - quote: "even after the statutory warranty expires, you still have rights under the Australian Consumer Law (ACL) that you can rely on if there is a problem with your car"
+  - source: https://www.consumer.vic.gov.au/consumers-and-businesses/cars/buying-a-used-car/warranties
+- **[documented-position]** Consumer Affairs Victoria states that the Victorian used-car statutory warranty does not transfer to a new owner if the buyer sells the car privately before the three months or 5,000 kilometres have passed.
+  - as of: 2025-06-26
+  - quote: "if you sell your car privately before the three months or 5,000 kilometres have passed, the warranty does not transfer to the new owner"
+  - source: https://www.consumer.vic.gov.au/consumers-and-businesses/cars/buying-a-used-car/warranties
+- **[documented-position]** Consumer Affairs Victoria states that the Victorian used-car statutory warranty does not apply to motorcycles.
+  - as of: 2023-10-13
+  - quote: "A statutory warranty does not apply to:"
+  - quote: "motorcycles, commercial vehicles and cars sold at public auction"
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/motor-car-traders/running-your-business/obligations-used-car-sales
+- **[documented-position]** Consumer Affairs Victoria states that the Victorian used-car statutory warranty does not apply to commercial vehicles.
+  - as of: 2023-10-13
+  - quote: "A statutory warranty does not apply to:"
+  - quote: "motorcycles, commercial vehicles and cars sold at public auction"
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/motor-car-traders/running-your-business/obligations-used-car-sales
+- **[documented-position]** Consumer Affairs Victoria states that the Victorian used-car statutory warranty does not apply to cars sold at public auction.
+  - as of: 2023-10-13
+  - quote: "A statutory warranty does not apply to:"
+  - quote: "motorcycles, commercial vehicles and cars sold at public auction"
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/motor-car-traders/running-your-business/obligations-used-car-sales
+- **[documented-position]** A buyer who accepts delivery of the vehicle during the three-day period automatically loses the right to cool off.
+  - as of: 2025-06-26
+  - quote: "if you choose to accept delivery of the vehicle during this three-day period, you will automatically lose your right to cool off"
+  - source: https://www.consumer.vic.gov.au/consumers-and-businesses/cars/buying-a-used-car/cooling-off-period
+- **[documented-position]** Consumer Affairs Victoria states that a Victorian dealer can keep some of the deposit on a cooled-off car sale.
+  - as of: 2025-06-26
+  - quote: "The dealer can keep some of the deposit you have paid ($100 or 1% of the purchase amount, whichever is greater)."
+  - source: https://www.consumer.vic.gov.au/consumers-and-businesses/cars/buying-a-used-car/cooling-off-period
+- **[documented-position]** Consumer Affairs Victoria states that the amount of deposit a Victorian dealer can keep on a cooled-off car sale is $100 or 1% of the purchase amount, whichever is greater.
+  - as of: 2025-06-26
+  - quote: "The dealer can keep some of the deposit you have paid ($100 or 1% of the purchase amount, whichever is greater)."
+  - source: https://www.consumer.vic.gov.au/consumers-and-businesses/cars/buying-a-used-car/cooling-off-period
+- **[documented-position]** Consumer Affairs Victoria states that there is no cooling-off period if a car is purchased in the name of a company or body corporate.
+  - as of: 2025-06-26
+  - quote: "There is no cooling-off period if the car is purchased in the name of a company or body corporate, or if it is classified as a commercial vehicle."
+  - source: https://www.consumer.vic.gov.au/consumers-and-businesses/cars/buying-a-used-car/cooling-off-period
+- **[documented-position]** Consumer Affairs Victoria states that there is no cooling-off period if a car is classified as a commercial vehicle.
+  - as of: 2025-06-26
+  - quote: "There is no cooling-off period if the car is purchased in the name of a company or body corporate, or if it is classified as a commercial vehicle."
+  - source: https://www.consumer.vic.gov.au/consumers-and-businesses/cars/buying-a-used-car/cooling-off-period
+- **[documented-position]** Consumer Affairs Victoria states that Victorian licensed motor car traders must by law provide buyers of used cars with a guarantee of clear title.
+  - as of: 2023-10-13
+  - quote: "Licensed motor car traders (LMCTs) must, by law, provide buyers of used cars with a guarantee of clear title."
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/motor-car-traders/running-your-business/obligations-used-car-sales
+- **[documented-position]** Consumer Affairs Victoria states that a Victorian licensed motor car trader must give the buyer a current roadworthy certificate before they take possession of the car.
+  - as of: 2023-10-13
+  - quote: "give the buyer a current roadworthy certificate before they take possession of the car"
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/motor-car-traders/running-your-business/obligations-used-car-sales
+- **[documented-position]** Consumer Affairs Victoria states that traders guilty of odometer tampering face fines of 240 penalty units for an individual and 1000 penalty units for a company.
+  - as of: 2023-10-13
+  - quote: "Traders guilty of odometer tampering face fines (240 penalty units for an individual and 1000 penalty units for a company), imprisonment of up to two years, or both."
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/motor-car-traders/running-your-business/obligations-used-car-sales
+- **[documented-position]** Consumer Affairs Victoria states that traders guilty of odometer tampering face imprisonment of up to two years.
+  - as of: 2023-10-13
+  - quote: "Traders guilty of odometer tampering face fines (240 penalty units for an individual and 1000 penalty units for a company), imprisonment of up to two years, or both."
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/motor-car-traders/running-your-business/obligations-used-car-sales
+- **[documented-position]** Consumer Affairs Victoria states that traders guilty of odometer tampering face both fines and imprisonment.
+  - as of: 2023-10-13
+  - quote: "Traders guilty of odometer tampering face fines (240 penalty units for an individual and 1000 penalty units for a company), imprisonment of up to two years, or both."
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/motor-car-traders/running-your-business/obligations-used-car-sales
+- **[documented-position]** Consumer Affairs Victoria states that a Victorian licensed motor car trader must list any faults not covered by the statutory warranty on a defect notice.
+  - as of: 2023-10-13
+  - quote: "You must list any faults not covered by the statutory warranty on a defect notice and display this on the vehicle."
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/motor-car-traders/running-your-business/obligations-used-car-sales
+- **[documented-position]** Consumer Affairs Victoria states that a Victorian licensed motor car trader must display the defect notice on the vehicle.
+  - as of: 2023-10-13
+  - quote: "You must list any faults not covered by the statutory warranty on a defect notice and display this on the vehicle."
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/motor-car-traders/running-your-business/obligations-used-car-sales
+- **[documented-position]** Regarding motor vehicle guarantees, the ACCC states that no penalty provisions currently apply for a failure to provide a consumer guarantee remedy required under Division 1 of Part 3-2 of the Australian Consumer Law.
+  - as of: 2025-12-10
+  - quote: "No penalty provisions currently apply for a failure to provide a consumer guarantee remedy required under Division 1 of Part 3–2 of the ACL."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[documented-position]** cooling-off periods for second-hand cars are required in some states and territories, according to the ACCC.
+  - as of: 2025-12-10
+  - quote: "Some states and territories require dealers to provide a cooling-off period for second-hand cars, ranging from 1 to 3 clear days after signing an agreement to purchase the car."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[documented-position]** cooling-off periods for second-hand cars range from 1 to 3 clear days after signing an agreement to purchase the car, according to the ACCC.
+  - as of: 2025-12-10
+  - quote: "Some states and territories require dealers to provide a cooling-off period for second-hand cars, ranging from 1 to 3 clear days after signing an agreement to purchase the car."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[documented-position]** The ACCC's documented position on motor vehicle guarantees is that car dealers do not have to provide cooling-off periods in Western Australia, the Northern Territory and Tasmania.
+  - as of: 2025-12-10
+  - quote: "dealers do not have to provide cooling-off periods in Western Australia, Northern Territory and Tasmania."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[documented-position]** In relation to motor vehicle guarantees, the ACCC states that state and territory statutory warranty obligations do not apply to private sellers of second-hand cars.
+  - as of: 2025-12-10
+  - quote: "The state and territory statutory warranty obligations, cooling-off periods and most ACL obligations do not apply to private sellers."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[documented-position]** In relation to motor vehicle guarantees, the ACCC states that cooling-off periods do not apply to private sellers of second-hand cars.
+  - as of: 2025-12-10
+  - quote: "The state and territory statutory warranty obligations, cooling-off periods and most ACL obligations do not apply to private sellers."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[documented-position]** In relation to motor vehicle guarantees, the ACCC states that most Australian Consumer Law obligations do not apply to private sellers of second-hand cars.
+  - as of: 2025-12-10
+  - quote: "The state and territory statutory warranty obligations, cooling-off periods and most ACL obligations do not apply to private sellers."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[documented-position]** The ACCC states that private sellers of second-hand cars are obliged to provide guarantees of clear title.
+  - as of: 2025-12-10
+  - quote: "Private sellers of second-hand cars are nevertheless obliged to provide guarantees of clear title, undisturbed possession and that the car has no undisclosed securities."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[documented-position]** The ACCC states that private sellers of second-hand cars are obliged to provide guarantees of undisturbed possession.
+  - as of: 2025-12-10
+  - quote: "Private sellers of second-hand cars are nevertheless obliged to provide guarantees of clear title, undisturbed possession and that the car has no undisclosed securities."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[documented-position]** The ACCC states that private sellers of second-hand cars are obliged to provide guarantees that the car has no undisclosed securities.
+  - as of: 2025-12-10
+  - quote: "Private sellers of second-hand cars are nevertheless obliged to provide guarantees of clear title, undisturbed possession and that the car has no undisclosed securities."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[documented-position]** Regarding motor vehicle guarantees, the ACCC states that consumer rights are in addition to the Australian Consumer Law consumer guarantees.
+  - as of: 2025-12-10
+  - quote: "A common misconception is that consumer rights are limited to what is covered by state or territory statutory warranties, rather than these rights being in addition to those under the ACL consumer guarantees."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+
+### Measured finding (6)
+
+- **[measured-finding]** The ACCC reports that over 80% of the second-hand car reports it received in that period related to consumer guarantee issues concerning motor vehicle guarantees.
+  - as of: 2025-06-30
+  - quote: "From 1 July 2024 to 30 June 2025, the ACCC received over 1,000 reports about second hand cars. Over 80% of these reports related to consumer guarantee issues."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[measured-finding]** The ACCC reports that state and territory consumer protection agencies received over 13,000 reports about issues relating to second-hand cars during the 2024-25 financial year.
+  - as of: 2025-06-30
+  - quote: "State and territory consumer protection agencies also received over 13,000 reports about issues relating to second-hand cars during the 2024–25 financial year."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[measured-finding]** In 2023, Consumer Affairs Victoria analysed approximately 300 cases.
+  - as of: 2023-12-31
+  - quote: "In 2023, Consumer Affairs Victoria conducted analysis of approximately 300 cases where the consumer had reported how long it took for them to identify the car’s failure."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[measured-finding]** In the approximately 300 cases analysed by Consumer Affairs Victoria in 2023, the consumer had reported how long it took to identify the car's failure.
+  - as of: 2023-12-31
+  - quote: "In 2023, Consumer Affairs Victoria conducted analysis of approximately 300 cases where the consumer had reported how long it took for them to identify the car’s failure."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[measured-finding]** The ACCC reports that Consumer Protection Western Australia received approximately 950 reports about second-hand cars in the 2024-25 financial year.
+  - as of: 2025-06-30
+  - quote: "Consumer Protection Western Australia received approximately 950 reports about second-hand cars in the 2024–25 financial year which referenced how quickly the reported fault arose after purchase."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[measured-finding]** The approximately 950 reports about second-hand cars received by Consumer Protection Western Australia in the 2024-25 financial year referenced how quickly the reported fault arose after purchase.
+  - as of: 2025-06-30
+  - quote: "Consumer Protection Western Australia received approximately 950 reports about second-hand cars in the 2024–25 financial year which referenced how quickly the reported fault arose after purchase."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+
+### Practical effect (8)
+
+- **[practical-effect]** Regarding motor vehicle guarantees, the ACCC reports that in the Consumer Affairs Victoria analysis just under a third of complainants reported the issues arose within one day of taking possession of the car.
+  - as of: 2023-12-31
+  - quote: "In 2023, Consumer Affairs Victoria conducted analysis of approximately 300 cases where the consumer had reported how long it took for them to identify the car’s failure. Just under a third of complainants reported the issues arose within one day of taking possession of the car."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[practical-effect]** Mazda told the consumers that the only remedy available was a repair.
+  - as of: 2024-02-29
+  - quote: "Mazda ignored or rejected requests by the 9 consumers for a refund or a replacement vehicle. It told them that the only remedy available was a repair, even though their vehicles had already undergone multiple unsuccessful repair attempts, including complete engine replacements."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[practical-effect]** The consumers' vehicles had already undergone multiple unsuccessful repair attempts including complete engine replacements.
+  - as of: 2024-02-29
+  - quote: "Mazda ignored or rejected requests by the 9 consumers for a refund or a replacement vehicle. It told them that the only remedy available was a repair, even though their vehicles had already undergone multiple unsuccessful repair attempts, including complete engine replacements."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[practical-effect]** Some consumers seeking a remedy under motor vehicle guarantees have faced dealers claiming the dealer has a no refunds policy.
+  - as of: 2025-12-10
+  - quote: "When seeking remedies from dealers, some consumers have faced challenges such as dealers claiming that:"
+  - quote: "the dealer has a ‘no refunds’ policy"
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[practical-effect]** the ACCC reports that some consumers seeking a remedy have faced dealers claiming that once the state or territory statutory warranty expires the dealer has no further obligations.
+  - as of: 2025-12-10
+  - quote: "When seeking remedies from dealers, some consumers have faced challenges such as dealers claiming that:"
+  - quote: "once the state or territory statutory warranty expires, the dealer has no further obligations."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[practical-effect]** Under motor vehicle guarantees, some consumers seeking a remedy have faced dealers claiming that the consumer is not entitled to a remedy unless they purchased an extended warranty.
+  - as of: 2025-12-10
+  - quote: "When seeking remedies from dealers, some consumers have faced challenges such as dealers claiming that:"
+  - quote: "the consumer is not entitled to a remedy unless they purchased an extended warranty"
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[practical-effect]** The ACCC reports that in the 2024-25 financial year ASIC received 47 reports of alleged misconduct about extended warranties for cars.
+  - as of: 2025-06-30
+  - quote: "In the 2024–25 financial year, ASIC received 47 reports of alleged misconduct about extended warranties for cars"
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+- **[practical-effect]** Regarding motor vehicle guarantees, the ACCC states that a common misconception is that consumer rights are limited to what is covered by state or territory statutory warranties.
+  - as of: 2025-12-10
+  - quote: "A common misconception is that consumer rights are limited to what is covered by state or territory statutory warranties, rather than these rights being in addition to those under the ACL consumer guarantees."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+
+### Changed on (1)
+
+- **[changed-on]** In February 2024, the Federal Court ordered Mazda to pay $11.5 million in penalties for misleading 9 consumers about their consumer guarantee rights.
+  - as of: 2024-02-29
+  - quote: "In February 2024, the Federal Court ordered Mazda to pay $11.5 million in penalties for misleading 9 consumers about their consumer guarantee rights."
+  - source: https://www.accc.gov.au/system/files/consumer-issues-second-hand-cars-dec-2025.pdf
+
+### Echoed without a primary source (4)
+
+- **[echoed-claim]** Cars24 states that every vehicle it sells comes with a complimentary 3-month warranty
+  - as of: 2026-08-16
+  - quote: "That's why every vehicle comes with a complimentary 3-month warranty and 30-Day Return Guarantee, giving you added reassurance from day one."
+  - source: https://www.cars24.com.au/warranty/
+- **[echoed-claim]** Cars24 states that every vehicle it sells comes with a 30-Day Return Guarantee
+  - as of: 2026-08-16
+  - quote: "That's why every vehicle comes with a complimentary 3-month warranty and 30-Day Return Guarantee, giving you added reassurance from day one."
+  - source: https://www.cars24.com.au/warranty/
+- **[echoed-claim]** Cars24 states that regular servicing of the vehicle is required under its cover.
+  - as of: 2026-08-16
+  - quote: "Regular servicing of your vehicle is required"
+  - source: https://www.cars24.com.au/warranty/
+- **[echoed-claim]** Cars24 describes its cover as giving unlimited claims up to the vehicle value at time of claim.
+  - as of: 2026-08-16
+  - quote: "Unlimited claims up to the vehicle value at time of claim"
+  - source: https://www.cars24.com.au/warranty/

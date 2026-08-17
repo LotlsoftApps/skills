@@ -1,0 +1,232 @@
+# Search Console generative AI report
+
+Compiled 2026-08-14. Every claim carries the date its quote was true; search engines change their documentation without announcing it.
+
+## Summary
+
+Written from the claims below and checked against them.
+
+Google's stated methodology since August 15, 2024 is that AI Overviews are counted and logged in the overall Search Console Performance report, a documentation clarification only. On June 3, 2026, Google announced the launch of dedicated Search Console generative AI performance reports for Search and Discover, rolling them out to a subset of websites before wider availability. The Search report includes impressions, pages, countries, dates, and devices; the Discover report includes pages, countries, and dates, with one impression counted per result per session. Google says this generative AI data continues to be tracked in the overall performance report, and third-party coverage reports no click data, CTR, average position, or query-level breakdown; one article says the initial Google rollout is limited to a subset of UK site owners, while Google's announcement only specifies a subset of websites.
+
+## Claims (38)
+
+### Documented position (26)
+
+- **[documented-position]** Google's June 2026 announcement states that the new Search Console reports are designed to give dedicated views of a site's impressions within generative AI features on Search, such as AI Overviews and AI Mode.
+  - as of: 2026-06-03
+  - quote: "The new Search Console reports are designed to give you dedicated views of your impressions within generative AI features on Search, such as AI Overviews and AI Mode, as well as generative AI features in Discover."
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+- **[documented-position]** Google's June 2026 announcement states that the new Search Console reports are designed to give dedicated views of a site's impressions within generative AI features in Discover.
+  - as of: 2026-06-03
+  - quote: "The new Search Console reports are designed to give you dedicated views of your impressions within generative AI features on Search, such as AI Overviews and AI Mode, as well as generative AI features in Discover."
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+- **[documented-position]** Google's June 2026 announcement states that the generative AI data is included in the overall Search Console performance report.
+  - as of: 2026-06-03
+  - quote: "This data is included in the overall performance report, where it will continue to be tracked to give site owners an overview of the overall visibility of their site in Google Search. Today, we are launching a separate view dedicated to visibility from generative AI features."
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+- **[documented-position]** The generative AI data will continue to be tracked in the overall Search Console performance report to give site owners an overview of their site's overall visibility in Google Search.
+  - as of: 2026-06-03
+  - quote: "This data is included in the overall performance report, where it will continue to be tracked to give site owners an overview of the overall visibility of their site in Google Search. Today, we are launching a separate view dedicated to visibility from generative AI features."
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+- **[documented-position]** Google's June 2026 announcement states that the generative AI performance reports are being rolled out to a subset of websites.
+  - as of: 2026-06-03
+  - quote: "We are rolling these reports out to a subset of websites, allowing us to thoroughly test them and receive feedback before making them widely available."
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+- **[documented-position]** Google's June 2026 announcement states that the purpose of rolling out the generative AI performance reports to a subset of websites is to allow Google to thoroughly test the reports and receive feedback.
+  - as of: 2026-06-03
+  - quote: "We are rolling these reports out to a subset of websites, allowing us to thoroughly test them and receive feedback before making them widely available."
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+- **[documented-position]** Google's June 2026 announcement states that the generative AI performance reports will be made widely available after the testing and feedback.
+  - as of: 2026-06-03
+  - quote: "We are rolling these reports out to a subset of websites, allowing us to thoroughly test them and receive feedback before making them widely available."
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+- **[documented-position]** Google's June 2026 announcement lists the information shown by the new generative AI performance reports as Impressions, Pages, Countries, Devices and Dates.
+  - as of: 2026-06-03
+  - quote: "To help you understand how pages from your site are shown, our new reports show the following information:"
+  - quote: "Impressions: How often URLs from your site appeared in generative AI features in Search and Discover."
+  - quote: "Pages: Check which URLs appeared within AI features."
+  - quote: "Countries: Understand your visibility on a country basis."
+  - quote: "Devices: Identify the devices people are using when seeing your website (available for Search results)."
+  - quote: "Dates: Monitor your performance over time with hourly, daily, weekly, and monthly granularity."
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+- **[documented-position]** Search Console generative AI report documents that Google is continuing to work with website owners to understand what insights and data would be most helpful.
+  - as of: 2026-06-03
+  - quote: "We're continuing to work with website owners to understand what insights and data would be most helpful to inform their strategies, such as adding additional metrics over time."
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+- **[documented-position]** Search Console generative AI report gives adding additional metrics over time as an example of the insights and data that would be most helpful.
+  - as of: 2026-06-03
+  - quote: "We're continuing to work with website owners to understand what insights and data would be most helpful to inform their strategies, such as adding additional metrics over time."
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+- **[documented-position]** Google's Search Console Help page for the generative AI performance report (Search) states that the report includes impressions for the generative AI capability AI Overviews on Google Search.
+  - as of: 2026
+  - quote: "The generative AI performance report includes impressions for the following generative AI capabilities on Google Search:"
+  - quote: "AI Overviews"
+  - quote: "AI Mode"
+  - quote: "We expect to update this list over time as we develop Google Search."
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+- **[documented-position]** Google's Search Console Help page for the generative AI performance report (Search) states that the report includes impressions for the generative AI capability AI Mode on Google Search.
+  - as of: 2026
+  - quote: "The generative AI performance report includes impressions for the following generative AI capabilities on Google Search:"
+  - quote: "AI Overviews"
+  - quote: "AI Mode"
+  - quote: "We expect to update this list over time as we develop Google Search."
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+- **[documented-position]** Google's Search Console Help page for the generative AI performance report (Search) states that the reason for excluding Search Labs experiments from the generative AI performance report is that those experiments are still in active development.
+  - as of: 2026
+  - quote: "Note: Search Console doesn't include data from experiments in Search Labs, as these experiments are still in active development."
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+- **[documented-position]** Google's Search Console Help page for the generative AI performance report (Search) documents four dimensions for grouping the report's table data: Pages, Countries, Dates and Devices.
+  - as of: 2026
+  - quote: "You can choose a dimension by selecting the appropriate tab above the table:"
+  - quote: "Pages: Groups data by the final URL linked by a generative AI feature after any redirects."
+  - quote: "Countries: Groups data by the country where the search originated."
+  - quote: "Dates: Groups your data by days, weeks, or months (based on the selected time granularity)."
+  - quote: "Devices: Groups data by the type of device on which the user is searching: desktop, tablet, or mobile."
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+- **[documented-position]** Google's Search Console Help page for the generative AI performance report (Search) states that the report's chart displays total impressions for the property over the selected time period.
+  - as of: 2026
+  - quote: "The chart displays total impressions for your property over the selected time period."
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+- **[documented-position]** Google's Search Console Help page for the generative AI performance report (Search) defines impressions in the report as how many times links to a site were shown to a user in a generative AI feature on Google Search.
+  - as of: 2026
+  - quote: "The default view of the report shows impression data for your site in the supported features. Impressions are how many times links to your site were shown to a user in a generative AI feature on Google Search."
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+- **[documented-position]** Google's Search Console Help page for the generative AI performance report (Search) states that, as in the performance report, most performance data in the generative AI report is assigned to a page's canonical URL rather than to a duplicate URL.
+  - as of: 2026
+  - quote: "Pages: Groups data by the final URL linked by a generative AI feature after any redirects. Just like the performance report, most performance data in this report is assigned to the page's canonical URL, not to a duplicate URL."
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+- **[documented-position]** Google's Search Console Help page for the generative AI performance report (Search) states that the usual Search performance report data limitations, including the 1,000 row limitation, also apply to the generative AI performance report.
+  - as of: 2026
+  - quote: "Note that the usual data limitations (1,000 row limitation, time period, etc) for the Search performance report also apply to this report; refer to the Search performance documentation for details."
+  - source: https://support.google.com/webmasters/answer/16984139?hl=en
+- **[documented-position]** Google's Search Console Help page for the generative AI performance report (Discover) documents Pages, Countries and Dates as the three dimensions for grouping that report's data.
+  - as of: 2026
+  - quote: "You can choose a dimension by selecting the appropriate tab above the table:"
+  - quote: "Pages: The page that served as the source of the information shown to the user."
+  - quote: "Countries: The country where the content was viewed."
+  - quote: "Dates: Groups your data by days, weeks, or months (based on the selected time granularity)."
+  - source: https://support.google.com/webmasters/answer/16983858?hl=en
+  - source: https://support.google.com/webmasters/answer/16983858?hl=en
+  - source: https://support.google.com/webmasters/answer/16983858?hl=en
+  - source: https://support.google.com/webmasters/answer/16983858?hl=en
+- **[documented-position]** Google's Search Console Help page for the generative AI performance report (Discover) states that only one impression is counted per result per session.
+  - as of: 2026
+  - quote: "Only one impression is counted per result per session; if a user scrolls past a card and then scrolls back, only one impression is recorded."
+  - source: https://support.google.com/webmasters/answer/16983858?hl=en
+- **[documented-position]** Google's guide to optimizing for generative AI features on Search directs site owners to the Generative AI performance report in Search Console to measure how their content is performing in generative AI features on Google Search and Discover.
+  - as of: 2026-07-10
+  - quote: "To measure how your content is performing in generative AI features on Google Search and Discover, use the Generative AI performance report in Search Console."
+  - quote: "Last updated 2026-07-10 UTC."
+  - source: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+  - source: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+- **[documented-position]** Google's guide to optimizing for generative AI features on Search warns readers to be wary of third-party tools that promise ranking success or claim to use internal Google metrics.
+  - as of: 2026-07-10
+  - quote: "Be wary of third-party tools that promise ranking success or claim to use "internal" Google metrics. No third-party tool has access to our internal ranking or AI systems."
+  - source: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+- **[documented-position]** Google's guide to optimizing for generative AI features on Search states that no third-party tool has access to Google's internal ranking or AI systems.
+  - as of: 2026-07-10
+  - quote: "Be wary of third-party tools that promise ranking success or claim to use "internal" Google metrics. No third-party tool has access to our internal ranking or AI systems."
+  - source: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+- **[documented-position]** Google described the August 15, 2024 clarification about AI Overviews in Search Console as a documentation clarification on methodology only and not a change in Search Console reports.
+  - as of: 2024-08-15
+  - quote: "August 15"
+  - quote: "Clarifying how AI Overviews are logged in Search Console"
+  - quote: "What: Clarified that AI Overviews are counted and logged in Search Console in the Performance report. This is a documentation clarification on methodology only, and not a change in Search Console reports."
+  - source: https://developers.google.com/search/updates
+  - source: https://developers.google.com/search/updates
+  - source: https://developers.google.com/search/updates
+- **[documented-position]** Google's Search Console Help page for the Search generative AI control states that including a site's links and content in Search generative AI features is the default control for all properties.
+  - as of: 2026
+  - quote: "Include my site's links and content in Search generative AI features: Your site's content can appear in Search generative AI features, including showing up as links and helping to ground AI responses in these features. Your site can receive impressions and traffic from these features. This is the default control for all properties."
+  - source: https://support.google.com/webmasters/answer/16908024?hl=en
+- **[documented-position]** Google's Search Console Help page for the Search generative AI control states that the control isn't used as a ranking or inclusion signal affecting other parts of Search.
+  - as of: 2026
+  - quote: "This control only affects whether your content can appear in certain Search generative AI features; this control isn't used as a ranking or inclusion signal affecting other parts of Search."
+  - source: https://support.google.com/webmasters/answer/16908024?hl=en
+
+### Changed on (5)
+
+- **[changed-on]** Google announced the launch of the Search Console generative AI report.
+  - as of: 2026-06-03
+  - quote: "Wednesday, June 3, 2026"
+  - quote: "Today, we're excited to announce the launch of new Search Generative AI performance reports in Search Console, including dedicated reports for Search and Discover, to help you understand your site's visibility within generative AI features on Search."
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+- **[changed-on]** The announcement of the Search Console generative AI report was made in a Search Central blog post.
+  - as of: 2026-06-03
+  - quote: "Wednesday, June 3, 2026"
+  - quote: "Today, we're excited to announce the launch of new Search Generative AI performance reports in Search Console, including dedicated reports for Search and Discover, to help you understand your site's visibility within generative AI features on Search."
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+- **[changed-on]** The Search Central blog post announcing the Search Console generative AI report was dated Wednesday, June 3, 2026.
+  - as of: 2026-06-03
+  - quote: "Wednesday, June 3, 2026"
+  - quote: "Today, we're excited to announce the launch of new Search Generative AI performance reports in Search Console, including dedicated reports for Search and Discover, to help you understand your site's visibility within generative AI features on Search."
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+  - source: https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports
+- **[changed-on]** Google's guide to optimizing for generative AI features on Search was last updated on 2026-07-10.
+  - as of: 2026-07-10
+  - quote: "To measure how your content is performing in generative AI features on Google Search and Discover, use the Generative AI performance report in Search Console."
+  - quote: "Last updated 2026-07-10 UTC."
+  - source: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+  - source: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+- **[changed-on]** Google's Search Central documentation changelog records that on August 15, 2024 Google clarified that AI Overviews are counted and logged in the Search Console Performance report.
+  - as of: 2024-08-15
+  - quote: "August 15"
+  - quote: "Clarifying how AI Overviews are logged in Search Console"
+  - quote: "What: Clarified that AI Overviews are counted and logged in Search Console in the Performance report. This is a documentation clarification on methodology only, and not a change in Search Console reports."
+  - source: https://developers.google.com/search/updates
+  - source: https://developers.google.com/search/updates
+  - source: https://developers.google.com/search/updates
+
+### Echoed without a primary source (7)
+
+- **[echoed-claim]** An article published at neilpatel.com states that data in the Search Console generative AI report begins from May 18, 2026.
+  - as of: 2026
+  - quote: "Data begins from May 18, 2026; there is no historical backfill."
+  - quote: "The report currently has no historical data before May 18, 2026, which means the earlier you establish your first benchmarks, the more useful comparative data you will have going forward."
+  - source: https://neilpatel.com/blog/gsc-ai-search-data-generative-ai-report/
+  - source: https://neilpatel.com/blog/gsc-ai-search-data-generative-ai-report/
+- **[echoed-claim]** An article published at neilpatel.com states that there is no historical backfill for the data in the Search Console generative AI report.
+  - as of: 2026
+  - quote: "Data begins from May 18, 2026; there is no historical backfill."
+  - quote: "The report currently has no historical data before May 18, 2026, which means the earlier you establish your first benchmarks, the more useful comparative data you will have going forward."
+  - source: https://neilpatel.com/blog/gsc-ai-search-data-generative-ai-report/
+  - source: https://neilpatel.com/blog/gsc-ai-search-data-generative-ai-report/
+- **[echoed-claim]** An article published at neilpatel.com states that the Search Console generative AI report tracks impressions only, with no click data, no CTR, no average position and no query-level breakdown.
+  - as of: 2026
+  - quote: "The most significant limitation of the current report is that it tracks impressions only. There is no click data, no CTR, no average position, and no query-level breakdown."
+  - quote: "Click data is not included in the current version, which is the most significant limitation."
+  - source: https://neilpatel.com/blog/gsc-ai-search-data-generative-ai-report/
+  - source: https://neilpatel.com/blog/gsc-ai-search-data-generative-ai-report/
+- **[echoed-claim]** An article published at weblumino.com states that the Search Console generative AI reporting includes impressions, pages, countries, devices and dates.
+  - as of: 2026
+  - quote: "The reporting includes impressions, pages, countries, devices, and dates, but does not include click data. Google won’t be telling us how many searchers click from AI responses in Google Search to sites."
+  - source: https://weblumino.com/introducing-search-generative-ai-performance-reports-in-search-console-2026/
+- **[echoed-claim]** An article published at weblumino.com states that the Search Console generative AI reporting does not include click data.
+  - as of: 2026
+  - quote: "The reporting includes impressions, pages, countries, devices, and dates, but does not include click data. Google won’t be telling us how many searchers click from AI responses in Google Search to sites."
+  - source: https://weblumino.com/introducing-search-generative-ai-performance-reports-in-search-console-2026/
+- **[echoed-claim]** An article published at weblumino.com states that Google's generative AI report is currently limited to a subset of UK site owners.
+  - as of: 2026
+  - quote: "It’s also worth noting the competitive context: Bing Webmaster Tools has already released its AI performance report. Neither Google’s nor Bing’s reports have click data, but at least Bing’s report is global, while Google’s report is currently a subset of UK site owners."
+  - source: https://weblumino.com/introducing-search-generative-ai-performance-reports-in-search-console-2026/
+- **[echoed-claim]** An article published at weblumino.com states that Bing Webmaster Tools' AI performance report is global.
+  - as of: 2026
+  - quote: "It’s also worth noting the competitive context: Bing Webmaster Tools has already released its AI performance report. Neither Google’s nor Bing’s reports have click data, but at least Bing’s report is global, while Google’s report is currently a subset of UK site owners."
+  - source: https://weblumino.com/introducing-search-generative-ai-performance-reports-in-search-console-2026/

@@ -1,0 +1,269 @@
+# crawl budget
+
+Compiled 2026-08-14. Every claim carries the date its quote was true; search engines change their documentation without announcing it.
+
+## Summary
+
+Written from the claims below and checked against them.
+
+Google's current crawling infrastructure documentation defines crawl budget as the set of URLs Google can and wants to crawl, treats each unique hostname as a separate site, and starts every site with the same default conservative crawl capacity limit that Google adjusts when demand exists and the site remains healthy. Crawling is not a ranking signal, and the crawl budget guidance is aimed at large sites with 1 million or more unique pages changing about once a week; its page-count thresholds are rough estimates, not exact thresholds. The documentation states that any URL Googlebot crawls generally counts toward crawl budget, 4xx status codes except 429 do not waste it, compressed sitemaps do not increase it, the crawl-delay robots.txt rule is not processed, and noindex is not a good way to control it though it can indirectly free up budget in the long run. A 2017 Google blog post defined crawl budget as the number of URLs Googlebot can and wants to crawl and said URLs disallowed through robots.txt do not affect crawl budget; that post later carries a notice that some information may be outdated, and current documentation says crawl budget freed by robots.txt blocking is not reallocated unless Google is already hitting the site's crawl capacity limit.
+
+## Claims (46)
+
+### Documented position (37)
+
+- **[documented-position]** Google's crawling infrastructure documentation defines a site's crawl budget as the set of URLs that Google can and wants to crawl.
+  - as of: 2026-07-22
+  - quote: "Taking crawl capacity and crawl demand together, Google defines a site's crawl budget as the set of URLs that Google can and wants to crawl."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's 2017 blog post defined crawl budget as the number of URLs Googlebot can and wants to crawl
+  - as of: 2026-07-22
+  - quote: "Taking crawl rate and crawl demand together we define crawl budget as the number of URLs Googlebot can and wants to crawl."
+  - quote: "Taking crawl capacity and crawl demand together, Google defines a site's crawl budget as the set of URLs that Google can and wants to crawl."
+  - source: https://developers.google.com/search/blog/2017/01/what-crawl-budget-means-for-googlebot
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's current crawling infrastructure documentation defines crawl budget as the set of URLs that Google can and wants to crawl
+  - as of: 2026-07-22
+  - quote: "Taking crawl rate and crawl demand together we define crawl budget as the number of URLs Googlebot can and wants to crawl."
+  - quote: "Taking crawl capacity and crawl demand together, Google defines a site's crawl budget as the set of URLs that Google can and wants to crawl."
+  - source: https://developers.google.com/search/blog/2017/01/what-crawl-budget-means-for-googlebot
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's 2017 blog post said that a site with fewer than a few thousand URLs would most of the time be crawled efficiently.
+  - as of: 2026-07-22
+  - quote: "Likewise, if a site has fewer than a few thousand URLs, most of the time it will be crawled efficiently."
+  - quote: "Large sites (1 million+ unique pages) with content that changes moderately often (once a week)"
+  - source: https://developers.google.com/search/blog/2017/01/what-crawl-budget-means-for-googlebot
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's current crawl budget guide is aimed at large sites with 1 million or more unique pages whose content changes about once a week.
+  - as of: 2026-07-22
+  - quote: "Likewise, if a site has fewer than a few thousand URLs, most of the time it will be crawled efficiently."
+  - quote: "Large sites (1 million+ unique pages) with content that changes moderately often (once a week)"
+  - source: https://developers.google.com/search/blog/2017/01/what-crawl-budget-means-for-googlebot
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's crawling infrastructure documentation states that site owners whose pages seem to be crawled the same day they are published do not need to read the crawl budget guide.
+  - as of: 2026-07-22
+  - quote: "If your site doesn't have a large number of pages that change rapidly, or if your pages seem to be crawled the same day that they are published, you don't need to read this guide."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's crawling infrastructure documentation states that the page-count thresholds it gives for crawl budget are a rough estimate to help classify a site.
+  - as of: 2026-07-22
+  - quote: "The numbers given here are a rough estimate to help you classify your site. These are not exact thresholds."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's crawling infrastructure documentation states that the page-count thresholds it gives for crawl budget are not exact thresholds.
+  - as of: 2026-07-22
+  - quote: "The numbers given here are a rough estimate to help you classify your site. These are not exact thresholds."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's crawling infrastructure documentation states that https://www.example.com/ and https://code.example.com/ are treated as separate sites with separate crawl budgets.
+  - as of: 2026-07-22
+  - quote: "In this context, Google's crawling infrastructure defines a site as a unique hostname. For example, https://www.example.com/ and https://code.example.com/ are treated as separate sites and have separate crawl budgets."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's crawling infrastructure defines a site as a unique hostname.
+  - as of: 2026-07-22
+  - quote: "In this context, Google's crawling infrastructure defines a site as a unique hostname. For example, https://www.example.com/ and https://code.example.com/ are treated as separate sites and have separate crawl budgets."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's crawling infrastructure documentation states that for Google Search, not every page that is crawled will necessarily be indexed.
+  - as of: 2026-07-22
+  - quote: "For Google Search, not every page that is crawled will necessarily be indexed. After crawling, each page must be evaluated, consolidated, and assessed to determine its suitability for the index."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's crawling infrastructure documentation states that crawling is not a ranking signal in Google Search.
+  - as of: 2025-12-18
+  - quote: "Improving your crawl rate won't necessarily lead to better positions in Google Search results. Google uses many signals to rank the results, and while crawling is necessary for a page to be in search results, it's not a ranking signal."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Google's crawling infrastructure documentation states that improving crawl rate will not necessarily lead to better positions in Google Search results.
+  - as of: 2025-12-18
+  - quote: "Improving your crawl rate won't necessarily lead to better positions in Google Search results. Google uses many signals to rank the results, and while crawling is necessary for a page to be in search results, it's not a ranking signal."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Google's crawling infrastructure documentation states that compressing sitemaps does not increase crawl budget.
+  - as of: 2025-12-18
+  - quote: "Compressing my sitemaps can increase my crawl budget."
+  - quote: "It won't. Zipped sitemaps still have to be fetched from the server, so you're not really saving much crawling time or effort on Google's part by sending compressed sitemaps."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Compressing sitemaps does not increase crawl budget because zipped sitemaps still have to be fetched from the server.
+  - as of: 2025-12-18
+  - quote: "Compressing my sitemaps can increase my crawl budget."
+  - quote: "It won't. Zipped sitemaps still have to be fetched from the server, so you're not really saving much crawling time or effort on Google's part by sending compressed sitemaps."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Google's crawling infrastructure documentation states that pages serving 4xx HTTP status codes, except 429, don't waste crawl budget.
+  - as of: 2025-12-18
+  - quote: "Pages that serve 4xx HTTP status codes (except 429) don't waste crawl budget. Google attempted to crawl the page, but received a status code and no other content."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Google's crawling infrastructure documentation states that the non-standard crawl-delay robots.txt rule is not processed by Google's crawlers.
+  - as of: 2025-12-18
+  - quote: "The non-standard "crawl-delay" robots.txt rule is not processed by Google's crawlers."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Google's crawling infrastructure documentation states that any URL Googlebot crawls generally counts towards a site's crawl budget.
+  - as of: 2025-12-18
+  - quote: "Generally, any URL that Googlebot crawls will count towards a site's crawl budget. Alternate URLs, like AMP or hreflang, as well as embedded content, such as CSS and JavaScript, including XHR fetches, may have to be crawled and will consume a site's crawl budget."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Google's crawling infrastructure documentation states that alternate URLs such as AMP or hreflang generally count towards a site's crawl budget.
+  - as of: 2025-12-18
+  - quote: "Generally, any URL that Googlebot crawls will count towards a site's crawl budget. Alternate URLs, like AMP or hreflang, as well as embedded content, such as CSS and JavaScript, including XHR fetches, may have to be crawled and will consume a site's crawl budget."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Google's crawling infrastructure documentation states that embedded content such as CSS and JavaScript generally counts towards a site's crawl budget.
+  - as of: 2025-12-18
+  - quote: "Generally, any URL that Googlebot crawls will count towards a site's crawl budget. Alternate URLs, like AMP or hreflang, as well as embedded content, such as CSS and JavaScript, including XHR fetches, may have to be crawled and will consume a site's crawl budget."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Google's crawling infrastructure documentation states that for Google Search, content is rated by quality regardless of age.
+  - as of: 2025-12-18
+  - quote: "For Google Search, content is rated by quality, regardless of age. Create and update your content as necessary, but there's no additional value in making pages artificially appear to be fresh by making trivial changes and updating the page date."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Google's crawling infrastructure documentation states that there is no additional value in making pages artificially appear fresh through trivial changes.
+  - as of: 2025-12-18
+  - quote: "For Google Search, content is rated by quality, regardless of age. Create and update your content as necessary, but there's no additional value in making pages artificially appear to be fresh by making trivial changes and updating the page date."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Google's crawling infrastructure documentation states that Google will not shift crawl budget freed by robots.txt blocking to other pages unless Google is already hitting the site's crawl capacity limit.
+  - as of: 2026-07-22
+  - quote: "Don't use robots.txt to temporarily reallocate crawl budget for other pages; use robots.txt to block pages or resources that you don't want Google to crawl at all. Google won't shift this newly available crawl budget to other pages unless Google is already hitting your site's crawl capacity limit."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's crawling infrastructure documentation advises against using noindex to manage crawl budget.
+  - as of: 2026-07-22
+  - quote: "Don't use noindex, as Google will still request, but then drop the page when it sees a noindex meta tag or header in the HTTP response, wasting crawling time."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google will still request the page and then drop it when it sees the noindex meta tag or header, wasting crawling time.
+  - as of: 2026-07-22
+  - quote: "Don't use noindex, as Google will still request, but then drop the page when it sees a noindex meta tag or header in the HTTP response, wasting crawling time."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's crawling infrastructure documentation states that removing URLs from Google's index with noindex can indirectly free up some crawl budget for a site in the long run.
+  - as of: 2025-12-18
+  - quote: "It's also important to note that if you remove URLs from Google's index with noindex or otherwise, Google's crawlers can focus on other URLs on your site, which means noindex can indirectly free up some crawl budget for your site in the long run."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Google's crawling infrastructure documentation states that it is probably more important to make a site faster for users than to make it faster to increase crawl coverage.
+  - as of: 2025-12-18
+  - quote: "It's probably more important for you to make your site faster for your users than to make it faster to increase your crawl coverage. It's much simpler to help Google crawl the right content than it is to crawl all your content every time."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Google's crawling infrastructure documentation states that time spent rendering a page counts as much as time spent requesting the page when Google crawls a site.
+  - as of: 2025-12-18
+  - quote: "Note that crawling a site involves both retrieving and rendering the content. Time spent rendering the page counts as much as time spent requesting the page."
+  - source: https://developers.google.com/crawling/docs/myths-about-crawling
+- **[documented-position]** Google Search Central's guide to optimizing for generative AI features on Google Search directs owners of very large and frequently updated sites to Google's guide to optimizing crawl budget.
+  - as of: 2026-07-10
+  - quote: "For very large and frequently updated sites, review our guide to optimizing your crawl budget."
+  - source: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+- **[documented-position]** Google's crawling infrastructure documentation states that every site starts with the same default, conservative crawl capacity limit.
+  - as of: 2026-07-22
+  - quote: "Every site starts with the same default, conservative crawl capacity limit. If there is demand to crawl more and the site remains healthy, Google's systems will automatically adjust this limit over time."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's crawling infrastructure documentation states that Google's systems adjust the crawl capacity limit of a site over time if there is demand to crawl more and the site remains healthy.
+  - as of: 2026-07-22
+  - quote: "Every site starts with the same default, conservative crawl capacity limit. If there is demand to crawl more and the site remains healthy, Google's systems will automatically adjust this limit over time."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's crawling infrastructure documentation states that the crawl capacity limit is shared across all of Google's crawlers.
+  - as of: 2026-07-22
+  - quote: "While each crawler has a different crawl demand, the crawl capacity limit is shared across all crawlers. This means that high demand from one crawler can reduce the capacity available for others."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** High demand from one of Google's crawlers can reduce the capacity available for other Google's crawlers.
+  - as of: 2026-07-22
+  - quote: "While each crawler has a different crawl demand, the crawl capacity limit is shared across all crawlers. This means that high demand from one crawler can reduce the capacity available for others."
+  - source: https://developers.google.com/crawling/docs/crawl-budget
+- **[documented-position]** Google's 2017 blog post on crawl budget states that URLs disallowed through robots.txt do not affect a site's crawl budget.
+  - as of: 2017-01-16
+  - quote: "Do URLs I disallowed through robots.txt affect my crawl budget in any way?"
+  - quote: "No, disallowed URLs do not affect the crawl budget."
+  - source: https://developers.google.com/search/blog/2017/01/what-crawl-budget-means-for-googlebot
+  - source: https://developers.google.com/search/blog/2017/01/what-crawl-budget-means-for-googlebot
+- **[documented-position]** Google's 2017 blog post on crawl budget carries a notice stating that some information in the post may be outdated.
+  - as of: 2026-08-12
+  - quote: "It's been a while since we published this blog post. Some of the information may be outdated (for example, some images may be missing, and some links may not work anymore). Check out our updated documentation on optimizing crawling efficiency."
+  - source: https://developers.google.com/search/blog/2017/01/what-crawl-budget-means-for-googlebot
+- **[documented-position]** Google's 2017 blog post on crawl budget carries a notice directing readers to updated documentation on optimizing crawling efficiency.
+  - as of: 2026-08-12
+  - quote: "It's been a while since we published this blog post. Some of the information may be outdated (for example, some images may be missing, and some links may not work anymore). Check out our updated documentation on optimizing crawling efficiency."
+  - source: https://developers.google.com/search/blog/2017/01/what-crawl-budget-means-for-googlebot
+- **[documented-position]** TwoSquares states that optimising crawl budget on a site that does not need it is usually wasted effort.
+  - as of: 2026-01-26
+  - quote: "Optimising crawl budget on a site that does not need it is usually wasted effort."
+  - quote: "If pages are not indexed, the cause is almost always:"
+  - quote: "weak internal linking"
+  - quote: "poor content quality"
+  - quote: "duplication"
+  - quote: "mixed signals (canonical, noindex, robots)"
+  - quote: "lack of demand"
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+
+### Practical effect (1)
+
+- **[practical-effect]** TwoSquares states that, regarding crawl budget, unindexed pages are almost always caused by weak internal linking, poor content quality, duplication, mixed signals or lack of demand.
+  - as of: 2026-01-26
+  - quote: "Optimising crawl budget on a site that does not need it is usually wasted effort."
+  - quote: "If pages are not indexed, the cause is almost always:"
+  - quote: "weak internal linking"
+  - quote: "poor content quality"
+  - quote: "duplication"
+  - quote: "mixed signals (canonical, noindex, robots)"
+  - quote: "lack of demand"
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+
+### Changed on (6)
+
+- **[changed-on]** Google's Search Central changelog records that the Large site owner's guide to managing your crawl budget was migrated from the Search Console Help Center on December 4, 2020.
+  - as of: 2020-12-04
+  - quote: "December 2020"
+  - quote: "December 4 : Migrated the following guides from the Search Console Help Center (the content hasn't changed):"
+  - quote: "Large site owner's guide to managing your crawl budget"
+  - source: https://developers.google.com/search/updates
+  - source: https://developers.google.com/search/updates
+  - source: https://developers.google.com/search/updates
+- **[changed-on]** Google's Search Central changelog records that the migration of the Large site owner's guide to managing your crawl budget involved no change to its content.
+  - as of: 2020-12-04
+  - quote: "December 2020"
+  - quote: "December 4 : Migrated the following guides from the Search Console Help Center (the content hasn't changed):"
+  - quote: "Large site owner's guide to managing your crawl budget"
+  - source: https://developers.google.com/search/updates
+  - source: https://developers.google.com/search/updates
+  - source: https://developers.google.com/search/updates
+- **[changed-on]** Google's crawling documentation changelog records that on July 22, 2026 the Optimize your crawl budget page was polished and clarified to improve clarity, terminology consistency and flow.
+  - as of: 2026-07-22
+  - quote: "July 2026"
+  - quote: "July 22"
+  - quote: "Polished and clarified the crawl budget guide"
+  - quote: "What: Polished and clarified the Optimize your crawl budget page to improve clarity, terminology consistency, and flow."
+  - source: https://developers.google.com/crawling/docs/changelog
+  - source: https://developers.google.com/crawling/docs/changelog
+  - source: https://developers.google.com/crawling/docs/changelog
+  - source: https://developers.google.com/crawling/docs/changelog
+- **[changed-on]** On December 2, 2022, Google's Search Central changelog recorded that two new myths were added to the crawl budget documentation.
+  - as of: 2022-12-02
+  - quote: "December 2022"
+  - quote: "December 2 : Added two new myths to the crawl budget documentation . noindex isn't a good way to control crawl budget (but can be a method to indirectly free up crawl budget in the long run), and pages that serve 4xx status codes (except 429 ) don't waste crawl budget."
+  - source: https://developers.google.com/search/updates
+  - source: https://developers.google.com/search/updates
+- **[changed-on]** The myth that noindex isn't a good way to control crawl budget was added to Google's crawl budget documentation on December 2, 2022.
+  - as of: 2022-12-02
+  - quote: "December 2022"
+  - quote: "December 2 : Added two new myths to the crawl budget documentation . noindex isn't a good way to control crawl budget (but can be a method to indirectly free up crawl budget in the long run), and pages that serve 4xx status codes (except 429 ) don't waste crawl budget."
+  - source: https://developers.google.com/search/updates
+  - source: https://developers.google.com/search/updates
+- **[changed-on]** The myth that pages serving 4xx status codes except 429 don't waste crawl budget was added to Google's crawl budget documentation on December 2, 2022.
+  - as of: 2022-12-02
+  - quote: "December 2022"
+  - quote: "December 2 : Added two new myths to the crawl budget documentation . noindex isn't a good way to control crawl budget (but can be a method to indirectly free up crawl budget in the long run), and pages that serve 4xx status codes (except 429 ) don't waste crawl budget."
+  - source: https://developers.google.com/search/updates
+  - source: https://developers.google.com/search/updates
+
+### Echoed without a primary source (2)
+
+- **[echoed-claim]** Backlinko defines crawl budget as the number of pages Googlebot crawls and indexes on a website within a given timeframe.
+  - as of: 2026-06-23
+  - quote: "Crawl Budget is the number of pages Googlebot crawls and indexes on a website within a given timeframe."
+  - source: https://backlinko.com/hub/seo/crawl-budget
+- **[echoed-claim]** TwoSquares states that crawl budget is not a limiting factor for the majority of websites.
+  - as of: 2026-01-26
+  - quote: "The uncomfortable truth: most sites do not have a crawl budget problem"
+  - quote: "under ~50,000 URLs"
+  - quote: "Crawl budget is not a limiting factor."
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets
+  - source: https://twosquares.co.uk/blog/crawl-budgets

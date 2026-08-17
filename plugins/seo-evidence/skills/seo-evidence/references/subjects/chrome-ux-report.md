@@ -1,0 +1,173 @@
+# Chrome UX Report (CrUX)
+
+Compiled 2026-08-14. Every claim carries the date its quote was true; search engines change their documentation without announcing it.
+
+## Summary
+
+Written from the claims below and checked against them.
+
+Chrome UX Report data is a 28-day rolling average of real-user metrics from Chrome users who have enabled usage statistic reporting, synced their browser history without a passphrase, and used a supported platform, and it is used by Google Search for page experience ranking. The CrUX API updates daily around 04:00 UTC with an approximate two-day lag, so a fix's impact begins to appear quickly rather than after 28 days; the reported metric values are 75th percentile, not averages. As of mid-2026, CrUX tracked 18.56 million origins with a 55.8% Core Web Vitals pass rate, but the dataset excludes Chrome on iOS, Android WebView, and other Chromium browsers, and it applies eligibility thresholds, random noise, and URL normalization that practitioners should understand when interpreting results.
+
+## Claims (38)
+
+### Documented position (32)
+
+- **[documented-position]** The Chrome for Developers "Overview of CrUX" page states that the Chrome User Experience Report is a dataset that reflects how real-world Chrome users experience popular destinations on the web.
+  - as of: 2024-02-08
+  - quote: "The Chrome User Experience Report (also known as the Chrome UX Report, or CrUX for short) is a dataset that reflects how real-world Chrome users experience popular destinations on the web."
+  - source: https://developer.chrome.com/docs/crux
+- **[documented-position]** The Chrome for Developers 'Overview of CrUX' page states that data collected by CrUX is used by Google Search to inform the page experience ranking factor.
+  - as of: 2024-02-08
+  - quote: "The data collected by CrUX is available publicly through a number of Google tools and third-party tools and is used by Google Search to inform the page experience ranking factor."
+  - source: https://developer.chrome.com/docs/crux
+- **[documented-position]** The CrUX API documentation states that the data in the Chrome UX Report is a 28-day rolling average of aggregated metrics.
+  - as of: 2025-02-11
+  - quote: "The data in the Chrome UX Report is a 28-day rolling average of aggregated metrics. This means that the data presented in the Chrome UX Report at any given time is actually data for the past 28 days aggregated together."
+  - source: https://developer.chrome.com/docs/crux/api
+- **[documented-position]** The CrUX History API documentation states that each collection period contains the previous 28 days of aggregated data.
+  - as of: 2025-04-11
+  - quote: "As each collection period contains the previous 28-days aggregated data, and the collection periods are per week, this means the collection periods will overlap. They are similar to a moving average of data, with three weeks worth of data being included in each subsequent period, and one week being different."
+  - source: https://developer.chrome.com/docs/crux/history-api
+- **[documented-position]** The CrUX History API documentation states that the collection periods are per week.
+  - as of: 2025-04-11
+  - quote: "As each collection period contains the previous 28-days aggregated data, and the collection periods are per week, this means the collection periods will overlap. They are similar to a moving average of data, with three weeks worth of data being included in each subsequent period, and one week being different."
+  - source: https://developer.chrome.com/docs/crux/history-api
+- **[documented-position]** The CrUX History API documentation states that the collection periods overlap.
+  - as of: 2025-04-11
+  - quote: "As each collection period contains the previous 28-days aggregated data, and the collection periods are per week, this means the collection periods will overlap. They are similar to a moving average of data, with three weeks worth of data being included in each subsequent period, and one week being different."
+  - source: https://developer.chrome.com/docs/crux/history-api
+- **[documented-position]** The CrUX API documentation states that the CrUX API is approximately two days behind today's date because it waits for completed data for the day.
+  - as of: 2025-02-11
+  - quote: "The CrUX API is approximately two days behind today's date since it waits for completed data for the day, and there is some processing time involved before it is available in the API."
+  - source: https://developer.chrome.com/docs/crux/api
+- **[documented-position]** The CrUX methodology documentation states that Chrome on iOS, Android apps using WebView, and other Chromium browsers such as Microsoft Edge do not provide data to the CrUX dataset.
+  - as of: 2024-06-20
+  - quote: "There are a few notable exceptions that don't provide data to the CrUX dataset: Chrome on iOS. Android apps using WebView. Other Chromium browsers (for example Microsoft Edge)."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** The CrUX methodology documentation states that Chrome does not publish data about the proportions of users that meet the CrUX user eligibility criteria.
+  - as of: 2024-06-20
+  - quote: "Chrome does not publish data about the proportions of users that meet these criteria."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** For a user's experiences to be aggregated in the CrUX dataset, the user must enable usage statistic reporting.
+  - as of: 2024-06-20
+  - quote: "For a user to have their experiences aggregated in the CrUX dataset, they must meet the following criteria: Enable usage statistic reporting. Sync their browser history. Not have a Sync passphrase set. Use a supported platform."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** For a user's experiences to be aggregated in the CrUX dataset, the user must sync their browser history.
+  - as of: 2024-06-20
+  - quote: "For a user to have their experiences aggregated in the CrUX dataset, they must meet the following criteria: Enable usage statistic reporting. Sync their browser history. Not have a Sync passphrase set. Use a supported platform."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** For a user's experiences to be aggregated in the CrUX dataset, the user must not have a Sync passphrase set.
+  - as of: 2024-06-20
+  - quote: "For a user to have their experiences aggregated in the CrUX dataset, they must meet the following criteria: Enable usage statistic reporting. Sync their browser history. Not have a Sync passphrase set. Use a supported platform."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** For a user's experiences to be aggregated in the CrUX dataset, the user must use a supported platform.
+  - as of: 2024-06-20
+  - quote: "For a user to have their experiences aggregated in the CrUX dataset, they must meet the following criteria: Enable usage statistic reporting. Sync their browser history. Not have a Sync passphrase set. Use a supported platform."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** The CrUX methodology documentation states that the exact minimum number of visitors required for a page or origin to be considered sufficiently popular is not disclosed.
+  - as of: 2024-06-20
+  - quote: "An exact number is not disclosed, but it has been chosen to ensure that we have enough samples to be confident in the statistical distributions for included pages. The minimum number is the same for pages and origins."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** The CrUX methodology documentation states that a page must be publicly discoverable to be considered for inclusion in the CrUX dataset.
+  - as of: 2024-06-20
+  - quote: "A page must be publicly discoverable to be considered for inclusion in the CrUX dataset. A page is determined to be publicly discoverable using the same indexability criteria as search engines."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** The CrUX methodology documentation states that the same indexability criteria as search engines are used for public discoverability.
+  - as of: 2024-06-20
+  - quote: "A page must be publicly discoverable to be considered for inclusion in the CrUX dataset. A page is determined to be publicly discoverable using the same indexability criteria as search engines."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** The CrUX methodology documentation states that a small amount of randomness is applied to the dataset to prevent reverse-engineering of sensitive data such as total traffic volumes.
+  - as of: 2024-06-20
+  - quote: "A small amount of randomness is applied to the dataset to prevent reverse-engineering of sensitive data, such as total traffic volumes. This does not affect the accuracy of aggregate statistics."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** The CrUX methodology documentation states that query string parameters and fragments are stripped from the URL in the CrUX dataset.
+  - as of: 2024-06-20
+  - quote: "Pages commonly have additional identifiers in their URL including query string parameters like ?utm_medium=email and fragments like #main. These identifiers are stripped from the URL in the CrUX dataset so that all user experiences on the page are aggregated together."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** The CrUX methodology documentation states that the stripping of query string parameters and fragments from the URL in the CrUX dataset is done so that all user experiences on the page are aggregated together.
+  - as of: 2024-06-20
+  - quote: "Pages commonly have additional identifiers in their URL including query string parameters like ?utm_medium=email and fragments like #main. These identifiers are stripped from the URL in the CrUX dataset so that all user experiences on the page are aggregated together."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** The CrUX methodology documentation states that pages included as iframes are not reported on separately in CrUX.
+  - as of: 2024-06-20
+  - quote: "Pages in CrUX are measured based on the top-level page. Pages included as iframes are not reported on separately in CrUX, but do contribute to the metrics of the top-level page."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** The CrUX methodology documentation states that pages included as iframes contribute to the metrics of the top-level page.
+  - as of: 2024-06-20
+  - quote: "Pages in CrUX are measured based on the top-level page. Pages included as iframes are not reported on separately in CrUX, but do contribute to the metrics of the top-level page."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** The CrUX methodology documentation states that route transitions appear as new page views to the user.
+  - as of: 2024-06-20
+  - quote: "These transitions appear as new page views to the user, but to Chrome and the underlying platform APIs the entire experience is attributed to the initial page view. This is a limitation of the web platform APIs on which CrUX is built"
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** The CrUX methodology documentation states that origins or pages having more than 20% of their total traffic excluded due to ineligible combinations of dimensions are excluded entirely from the dataset.
+  - as of: 2024-06-20
+  - quote: "Origins or pages having more than 20% of their total traffic excluded due to ineligible combinations of dimensions are excluded entirely from the dataset."
+  - source: https://developer.chrome.com/docs/crux/methodology
+- **[documented-position]** The CrUX on BigQuery documentation states that the CrUX data on BigQuery is structured by monthly release.
+  - as of: 2025-02-11
+  - quote: "The data is structured by monthly release, as well as a number of summary tables to provide quicker access for querying the data."
+  - source: https://developer.chrome.com/docs/crux/bigquery
+- **[documented-position]** The CrUX API documentation states that the percentile values returned by the CrUX API are synthetically derived.
+  - as of: 2025-02-11
+  - quote: "Note: The values for each percentile are synthetically derived, it does not imply that any user actually experienced the value indicated, only that some percentage of page loads experienced a metric value that was less than the value given."
+  - source: https://developer.chrome.com/docs/crux/api
+- **[documented-position]** The CrUX API documentation states that the percentile values returned by the CrUX API do not imply that any user actually experienced the value indicated.
+  - as of: 2025-02-11
+  - quote: "Note: The values for each percentile are synthetically derived, it does not imply that any user actually experienced the value indicated, only that some percentage of page loads experienced a metric value that was less than the value given."
+  - source: https://developer.chrome.com/docs/crux/api
+- **[documented-position]** CrUX API and PageSpeed Insights are updated daily with roughly a two-day lag.
+  - as of: 2026-07-14
+  - quote: "CrUX API and PageSpeed Insights: updated daily (~2-day lag). This is what most people use. CrUX History API: updated weekly on Mondays, with data through the previous Saturday. Powers the CrUX History tool and trend charts. CrUX BigQuery: updated monthly, on the second Tuesday after the collection period ends."
+  - source: https://www.corewebvitals.io/pagespeed/the-crux-28-day-delay-myth
+- **[documented-position]** CrUX History API is updated weekly on Mondays.
+  - as of: 2026-07-14
+  - quote: "CrUX API and PageSpeed Insights: updated daily (~2-day lag). This is what most people use. CrUX History API: updated weekly on Mondays, with data through the previous Saturday. Powers the CrUX History tool and trend charts. CrUX BigQuery: updated monthly, on the second Tuesday after the collection period ends."
+  - source: https://www.corewebvitals.io/pagespeed/the-crux-28-day-delay-myth
+- **[documented-position]** CrUX BigQuery is updated monthly.
+  - as of: 2026-07-14
+  - quote: "CrUX API and PageSpeed Insights: updated daily (~2-day lag). This is what most people use. CrUX History API: updated weekly on Mondays, with data through the previous Saturday. Powers the CrUX History tool and trend charts. CrUX BigQuery: updated monthly, on the second Tuesday after the collection period ends."
+  - source: https://www.corewebvitals.io/pagespeed/the-crux-28-day-delay-myth
+- **[documented-position]** The CrUX API documentation states that CrUX data is updated daily around 04:00 UTC.
+  - as of: 2025-02-11
+  - quote: "Data is updated daily around 04:00 UTC. There is no service level agreement for update times; it is run on a best-effort basis every day."
+  - source: https://developer.chrome.com/docs/crux/api
+- **[documented-position]** The CrUX API documentation states that CrUX data is updated on a best-effort basis.
+  - as of: 2025-02-11
+  - quote: "Data is updated daily around 04:00 UTC. There is no service level agreement for update times; it is run on a best-effort basis every day."
+  - source: https://developer.chrome.com/docs/crux/api
+- **[documented-position]** The CrUX API documentation states that there is no service level agreement for update times.
+  - as of: 2025-02-11
+  - quote: "Data is updated daily around 04:00 UTC. There is no service level agreement for update times; it is run on a best-effort basis every day."
+  - source: https://developer.chrome.com/docs/crux/api
+
+### Echoed without a primary source (6)
+
+- **[echoed-claim]** A corewebvitals.io article states, regarding Chrome UX Report (CrUX), that the belief that a site must wait 28 days after deploying a fix to see whether it worked is wrong.
+  - as of: 2026-07-14
+  - quote: "The CrUX data is two days old, not 28. Here is what the 28-day rolling window actually means."
+  - quote: "I hear it all the time: "We deployed the fix, now we have to wait 28 days to see if it worked." This is wrong. The data is not 28 days old. It is about two days old."
+  - source: https://www.corewebvitals.io/pagespeed/the-crux-28-day-delay-myth
+  - source: https://www.corewebvitals.io/pagespeed/the-crux-28-day-delay-myth
+- **[echoed-claim]** A corewebvitals.io article states that Chrome UX Report (CrUX) data is about two days old rather than 28 days old.
+  - as of: 2026-07-14
+  - quote: "The CrUX data is two days old, not 28. Here is what the 28-day rolling window actually means."
+  - quote: "I hear it all the time: "We deployed the fix, now we have to wait 28 days to see if it worked." This is wrong. The data is not 28 days old. It is about two days old."
+  - source: https://www.corewebvitals.io/pagespeed/the-crux-28-day-delay-myth
+  - source: https://www.corewebvitals.io/pagespeed/the-crux-28-day-delay-myth
+- **[echoed-claim]** A corewebvitals.io article states that several popular guides, including Vercel's, incorrectly describe the CrUX figure as an average.
+  - as of: 2026-07-14
+  - quote: "One thing many people get wrong: this is a 75th percentile, not an average. Several popular guides (including Vercel's) incorrectly call it an average."
+  - source: https://www.corewebvitals.io/pagespeed/the-crux-28-day-delay-myth
+- **[echoed-claim]** A corewebvitals.io article states that the CrUX figure is a 75th percentile.
+  - as of: 2026-07-14
+  - quote: "One thing many people get wrong: this is a 75th percentile, not an average. Several popular guides (including Vercel's) incorrectly call it an average."
+  - source: https://www.corewebvitals.io/pagespeed/the-crux-28-day-delay-myth
+- **[echoed-claim]** A corewebvitals.io article states that CrUX currently tracks 18.56 million origins.
+  - as of: 2026-07-14
+  - quote: "CrUX currently tracks 18.56 million origins with a 55.8% Core Web Vitals pass rate."
+  - source: https://www.corewebvitals.io/pagespeed/the-crux-28-day-delay-myth
+- **[echoed-claim]** A corewebvitals.io article states that CrUX has a 55.8% Core Web Vitals pass rate.
+  - as of: 2026-07-14
+  - quote: "CrUX currently tracks 18.56 million origins with a 55.8% Core Web Vitals pass rate."
+  - source: https://www.corewebvitals.io/pagespeed/the-crux-28-day-delay-myth

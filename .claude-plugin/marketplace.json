@@ -1,0 +1,54 @@
+{
+  "name": "lotlsoft",
+  "owner": {
+    "name": "Lotlsoft",
+    "url": "https://lotlsoft.com"
+  },
+  "plugins": [
+    {
+      "name": "seo-evidence",
+      "source": "./plugins/seo-evidence",
+      "description": "Answers SEO and crawler questions from 1,163 cited, dated primary sources instead of training-data folklore, says which commonly repeated ideas a primary source contradicts and which have no source anyone could find, and audits a live site against the same evidence.",
+      "version": "1.1.0",
+      "category": "productivity",
+      "tags": [
+        "seo",
+        "search",
+        "crawlers",
+        "ai-crawlers",
+        "audit",
+        "research"
+      ]
+    },
+    {
+      "name": "renting-evidence",
+      "source": "./plugins/renting-evidence",
+      "description": "Answers questions about renting in Victoria, Australia from 1,177 cited, dated primary sources - Consumer Affairs Victoria, the Residential Tenancies Act 1997 and VCAT - instead of training-data folklore, and says which commonly repeated renting rules a primary source contradicts, which are backed, and which nobody could source. Victoria only, and not legal advice.",
+      "version": "1.1.0",
+      "category": "research",
+      "tags": [
+        "renting",
+        "tenancy",
+        "victoria",
+        "australia",
+        "law",
+        "research"
+      ]
+    },
+    {
+      "name": "guarantees-evidence",
+      "source": "./plugins/guarantees-evidence",
+      "description": "Answers questions about Australian consumer guarantees from 873 cited, dated primary sources - the ACCC, the Australian Consumer Law and state consumer regulators - instead of training-data folklore, and says which commonly repeated shop rules a primary source contradicts and which have no source anyone could find. Covers refunds, repairs, replacements, faulty goods, 'no refunds' signs, warranties, durability and proof of purchase. Australia-wide, and not legal advice.",
+      "version": "1.0.0",
+      "category": "research",
+      "tags": [
+        "consumer-rights",
+        "refunds",
+        "warranties",
+        "australia",
+        "law",
+        "research"
+      ]
+    }
+  ]
+}

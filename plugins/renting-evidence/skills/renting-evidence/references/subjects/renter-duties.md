@@ -1,0 +1,350 @@
+# renter duties
+
+Compiled 2026-08-16. Every claim carries the date its quote was true; renting law is amended and the regulator rewrites its guidance, both without announcing it.
+
+## Summary
+
+Written from the claims below and checked against them.
+
+In Victoria, renters must allow entry when the rental provider or agent is legally allowed and has given proper notice; a general inspection may only be made after the first 3 months and at most every 6 months, and entry may only occur between 8 am and 6 pm on days other than public holidays. Renters must not damage the property or common areas (including through visitors), must keep it reasonably clean, must not cause a nuisance to neighbours, must tell the landlord as soon as possible of any damage or breakdown of facilities, and must return it to its original condition at the end of the tenancy except for fair wear and tear; they must also provide a key as soon as practicable if they change a lock, remove any modifications they made, and they need not leave during inspections, keep utilities on after moving out, clean at heights, or maintain gutters, while simple tasks such as trimming small shrubs are their responsibility. Renters can only be asked to pay for professional cleaning in defined circumstances, and renters cannot be expected to leave the property cleaner than when they moved in. From 2 March 2020 a rental provider cannot unreasonably refuse a pet request, and from 29 March 2021 the definitions of damage and fair wear and tear, cleanliness, and urgent repairs were standardised, and public housing renters may add picture hooks, wireless doorbells and letterbox locks without local housing office permission; the claims conflict on routine inspection notice (at least 24 hours written notice) and on whether showings or open inspections are limited to 14 or 21 days before the end of the rental agreement, and they note major reforms from 25 November 2025 but do not specify their effect on renter duties.
+
+## Claims (76)
+
+### Documented position (43)
+
+- **[documented-position]** Tenants Victoria lists not causing a nuisance or interference with the peace, comfort or privacy of neighbours among a renter's duties in Victoria.
+  - as of: 2026-07-21
+  - quote: "Not causing a nuisance or interference with the peace, comfort or privacy of neighbours [section 60]"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Tenants Victoria references the renter's duty of not causing a nuisance or interference with the peace, comfort or privacy of neighbours to section 60.
+  - as of: 2026-07-21
+  - quote: "Not causing a nuisance or interference with the peace, comfort or privacy of neighbours [section 60]"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Tenants Victoria lists keeping the property in a reasonably clean condition among a renter's duties in Victoria.
+  - as of: 2026-07-21
+  - quote: "Keeping the property in a reasonably clean condition [section 63]"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Tenants Victoria references section 63 for keeping the property in a reasonably clean condition.
+  - as of: 2026-07-21
+  - quote: "Keeping the property in a reasonably clean condition [section 63]"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Tenants Victoria lists not damaging the property or common areas among a renter’s duties in Victoria.
+  - as of: 2026-07-21
+  - quote: "Not damaging the property or common areas [section 61]"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Tenants Victoria references section 61 for the duty of not damaging the property or common areas.
+  - as of: 2026-07-21
+  - quote: "Not damaging the property or common areas [section 61]"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Tenants Victoria lists allowing entry to the property where proper notice has been given among a renter's duties in Victoria.
+  - as of: 2026-07-21
+  - quote: "Allowing entry to the property if proper notice has been given [section 89]"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Tenants Victoria references allowing entry to the property where proper notice has been given to section 89.
+  - as of: 2026-07-21
+  - quote: "Allowing entry to the property if proper notice has been given [section 89]"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Tenants Victoria lists providing the rental provider with a key after changing a lock as a renter’s duty in Victoria.
+  - as of: 2026-07-21
+  - quote: "Providing the rental provider with a key if you have changed a lock [section 70]"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** The renter duty of providing the rental provider with a key after changing a lock is referenced to section 70.
+  - as of: 2026-07-21
+  - quote: "Providing the rental provider with a key if you have changed a lock [section 70]"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Tenants Victoria lists returning the property to its original condition on moving out, unless it has been agreed this does not need to be done, among a renter’s duties in Victoria.
+  - as of: 2026-07-21
+  - quote: "Returning the property to its original condition on moving out, unless it has been agreed this does not need to be done [section 64]"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Tenants Victoria references section 64 for the duty to return the property to its original condition on moving out.
+  - as of: 2026-07-21
+  - quote: "Returning the property to its original condition on moving out, unless it has been agreed this does not need to be done [section 64]"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Tenants Victoria states that a notice of breach of duty cannot be given to a Victorian renter for breaching a term of the rental agreement.
+  - as of: 2026-07-21
+  - quote: "It cannot be given for breaching any terms of your rental agreement [section 208]."
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Regarding renter duties, Tenants Victoria states that a renter given a notice of breach of duty in Victoria has 14 days to fix the breach if the breach was for a duty other than the ones with shorter timeframes.
+  - as of: 2026-07-21
+  - quote: "You will have 14 days to fix the breach if it was for any other duty [sections 3, 208]."
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Tenants Victoria states that a renter given a notice of breach of duty in Victoria for causing nuisance or interference to the neighbours has 7 days to fix the breach.
+  - as of: 2026-07-21
+  - quote: "You will have 7 days to fix the breach if it was for causing nuisance or interference to the neighbours."
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Tenants Victoria states that a renter in Victoria who breaches the same duty 3 times can be given a 14-day notice to vacate on the third occasion, provided breach notices were given the first two times.
+  - as of: 2026-07-21
+  - quote: "That if you breach the same duty 3 times you can be given a 14-day notice to vacate on the third occasion, provided you were given breach notices the first two times"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/renter-breaches/
+- **[documented-position]** Consumer Affairs Victoria states that renters must let rental providers and agents enter the property when those rental providers and agents are legally allowed and have given proper notice.
+  - as of: 2025-04-23
+  - quote: "Renters must let rental providers and agents enter if they are legally allowed and have given proper notice to the renter."
+  - source: https://www.consumer.vic.gov.au/housing/renting/rental-providers-inspecting-or-entering-a-property/when-a-rental-provider-can-enter-a-property
+- **[documented-position]** Consumer Affairs Victoria states that a general inspection of a Victorian rental property may only be made after the first 3 months of the rental agreement.
+  - as of: 2025-04-23
+  - quote: "A general inspection may only be made after the first 3 months of the rental agreement. They can be done every 6 months at the most."
+  - source: https://www.consumer.vic.gov.au/housing/renting/rental-providers-inspecting-or-entering-a-property/when-a-rental-provider-can-enter-a-property
+- **[documented-position]** Consumer Affairs Victoria states that a general inspection of a Victorian rental property may only be made at most every 6 months.
+  - as of: 2025-04-23
+  - quote: "A general inspection may only be made after the first 3 months of the rental agreement. They can be done every 6 months at the most."
+  - source: https://www.consumer.vic.gov.au/housing/renting/rental-providers-inspecting-or-entering-a-property/when-a-rental-provider-can-enter-a-property
+- **[documented-position]** Consumer Affairs Victoria states that a renter in Victoria is not required to leave the property during a general inspection or when it is being shown to prospective tenants or buyers.
+  - as of: 2025-04-23
+  - quote: "Rental providers sometimes ask renters to be absent during a general inspection or when they’re showing the property to prospective tenants or buyers, but the renter is not required to leave."
+  - source: https://www.consumer.vic.gov.au/housing/renting/rental-providers-inspecting-or-entering-a-property/when-a-rental-provider-can-enter-a-property
+- **[documented-position]** Consumer Affairs Victoria states that a rental provider or agent in Victoria can only enter the property between 8 am and 6 pm on any day except a public holiday.
+  - as of: 2025-04-23
+  - quote: "The rental provider or their agent can only enter the property between 8 am and 6 pm on any day except a public holiday."
+  - source: https://www.consumer.vic.gov.au/housing/renting/rental-providers-inspecting-or-entering-a-property/when-a-rental-provider-can-enter-a-property
+- **[documented-position]** Tenants Victoria states that a breach of duty notice given to a renter who refuses a valid entry generally has a 14-day compliance period.
+  - as of: 2026-07-26
+  - quote: "If you refuse entry, the landlord may give you a breach of duty notice, which you generally have 14 days to comply with."
+  - source: https://tenantsvic.org.au/explore-topics/during-your-tenancy/privacy-while-renting/private-rental/
+- **[documented-position]** Tenants Victoria states that a Victorian renter may change the locks at any time as long as the lock is not part of a master key system.
+  - as of: 2026-07-26
+  - quote: "As a renter, you are allowed to change the locks at any time, as long as the lock is not part of a master key system"
+  - source: https://tenantsvic.org.au/explore-topics/during-your-tenancy/privacy-while-renting/private-rental/
+- **[documented-position]** Tenants Victoria states that a renter who changes a lock must give the landlord a copy of the new key as soon as practicable.
+  - as of: 2026-07-26
+  - quote: "If you do change a lock, you must give your landlord a copy of the new key as soon as practicable."
+  - source: https://tenantsvic.org.au/explore-topics/during-your-tenancy/privacy-while-renting/private-rental/
+- **[documented-position]** Tenants Victoria states that Consumer Affairs Victoria measures cleanliness according to average standards in the community.
+  - as of: 2026-05-22
+  - quote: "Consumer Affairs Victoria says cleanliness should be measured according to average standards in the community. It neither means spotless nor really messy, but sits somewhere in the middle."
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/consumer-affairs-victoria-guidelines/
+- **[documented-position]** Tenants Victoria states that a Victorian renter cannot be expected to leave the property cleaner than when they moved in.
+  - as of: 2026-05-22
+  - quote: "The renter cannot be expected to leave the property cleaner than when they moved in."
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/consumer-affairs-victoria-guidelines/
+- **[documented-position]** Tenants Victoria states that a renter's duty not to damage the rental property or common areas extends to damage caused by visitors.
+  - as of: 2026-05-22
+  - quote: "Renters have a duty to not intentionally or negligently damage the rental property or common areas. This includes damage caused by visitors."
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/consumer-affairs-victoria-guidelines/
+- **[documented-position]** Tenants Victoria states that damage does not include fair wear and tear, which is deterioration caused by everyday use or natural forces or elements.
+  - as of: 2026-05-22
+  - quote: "Damage does not include fair wear and tear, which is deterioration caused by everyday use or natural forces or elements, such as sunlight."
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/consumer-affairs-victoria-guidelines/
+- **[documented-position]** Rental Dispute Resolution Victoria states that renters are not responsible for gutter maintenance.
+  - as of: 2026-08-14
+  - quote: "Renters are not responsible for gutter maintenance, but they should tell the rental provider if they notice any signs of gutter issues"
+  - source: https://www.rdrv.vic.gov.au/who-maintains-gutters-gardens-and-pools-rental
+- **[documented-position]** Rental Dispute Resolution Victoria states that renters should tell the rental provider if they notice signs of gutter issues.
+  - as of: 2026-08-14
+  - quote: "Renters are not responsible for gutter maintenance, but they should tell the rental provider if they notice any signs of gutter issues"
+  - source: https://www.rdrv.vic.gov.au/who-maintains-gutters-gardens-and-pools-rental
+- **[documented-position]** Rental Dispute Resolution Victoria states that trimming small shrubs or plants is the renter's responsibility.
+  - as of: 2026-08-14
+  - quote: "Simple tasks related to keeping the property clean and tidy, such as:"
+  - quote: "Mowing the lawn regularly"
+  - quote: "Light weeding of garden beds and pathways"
+  - quote: "Trimming small shrubs or plants (for example, rose bushes hanging over a walkway)"
+  - source: https://www.rdrv.vic.gov.au/who-maintains-gutters-gardens-and-pools-rental
+- **[documented-position]** Rental Dispute Resolution Victoria publishes the view that if a maintenance job needs a cherry picker, ladder or special tools it is the rental provider's responsibility.
+  - as of: 2026-08-14
+  - quote: "If it’s something you need a cherry picker, ladder or special tools for, it’s the rental provider’s responsibility"
+  - source: https://www.rdrv.vic.gov.au/who-maintains-gutters-gardens-and-pools-rental
+- **[documented-position]** Rental Dispute Resolution Victoria states that if the backyard was overgrown when the renter moved in, the renter should not be expected to clean it up to get their bond back.
+  - as of: 2026-08-14
+  - quote: "If the backyard was overgrown when the renter moved in, they shouldn’t be expected to clean it up to get their bond back."
+  - source: https://www.rdrv.vic.gov.au/who-maintains-gutters-gardens-and-pools-rental
+- **[documented-position]** Tenants Victoria states that a renter who received a correct notice of entry for a valid reason must allow entry even if the time does not suit them.
+  - as of: 2026-07-26
+  - quote: "If you received the correct notice of entry for a valid reason, you must allow entry to those authorised to visit – you have a legal duty to do so. This is the case even if the time does not suit you or you will not be home."
+  - source: https://tenantsvic.org.au/explore-topics/during-your-tenancy/privacy-while-renting/private-rental/
+- **[documented-position]** Tenants Victoria states that a renter who received a correct notice of entry for a valid reason must allow entry even if they will not be home.
+  - as of: 2026-07-26
+  - quote: "If you received the correct notice of entry for a valid reason, you must allow entry to those authorised to visit – you have a legal duty to do so. This is the case even if the time does not suit you or you will not be home."
+  - source: https://tenantsvic.org.au/explore-topics/during-your-tenancy/privacy-while-renting/private-rental/
+- **[documented-position]** Tenants Victoria states that it is an offence for a landlord or their agent to try to force a renter to leave their home.
+  - as of: 2026-07-26
+  - quote: "It is an offence for the landlord or their agent to try to force you to leave"
+  - source: https://tenantsvic.org.au/explore-topics/during-your-tenancy/privacy-while-renting/private-rental/
+- **[documented-position]** Tenants Victoria states that a renter must let the landlord know as soon as possible of any damage or breakdown of facilities.
+  - as of: 2026-05-22
+  - quote: "Let the landlord know as soon as possible of any damage or breakdown of facilities"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/consumer-affairs-victoria-guidelines/
+- **[documented-position]** Tenants Victoria states that cleaning at heights is considered maintenance
+  - as of: 2026-05-22
+  - quote: "note that cleaning at heights is considered maintenance and the landlord’s responsibility. Renters are not expected to clean ceiling fans where access may be dangerous"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/consumer-affairs-victoria-guidelines/
+- **[documented-position]** Tenants Victoria states that cleaning at heights is the landlord's responsibility
+  - as of: 2026-05-22
+  - quote: "note that cleaning at heights is considered maintenance and the landlord’s responsibility. Renters are not expected to clean ceiling fans where access may be dangerous"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/consumer-affairs-victoria-guidelines/
+- **[documented-position]** Tenants Victoria states that renters are not expected to clean ceiling fans where access may be dangerous
+  - as of: 2026-05-22
+  - quote: "note that cleaning at heights is considered maintenance and the landlord’s responsibility. Renters are not expected to clean ceiling fans where access may be dangerous"
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/consumer-affairs-victoria-guidelines/
+- **[documented-position]** Tenants Victoria states that a renter who made modifications must remove the modifications.
+  - as of: 2026-07-21
+  - quote: "If you made any modifications to the property, such as installing picture hooks, you need to remove these and restore the property to the condition it was in before the modification was made, save for fair wear and tear."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/moving-out/
+- **[documented-position]** Tenants Victoria states that a renter who made modifications must restore the property to its condition before the modification, save for fair wear and tear.
+  - as of: 2026-07-21
+  - quote: "If you made any modifications to the property, such as installing picture hooks, you need to remove these and restore the property to the condition it was in before the modification was made, save for fair wear and tear."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/moving-out/
+- **[documented-position]** Rental Dispute Resolution Victoria is a government initiative.
+  - as of: 2025-06-30
+  - quote: "Rental Dispute Resolution Victoria (RDRV), launched in June 2025, is a new government initiative designed to streamline the handling of rental disputes across the state."
+  - source: https://reiv.com.au/advocacy/rental-dispute-resolution-victoria
+
+### Practical effect (5)
+
+- **[practical-effect]** Tenants Victoria reports that rental providers and agents often try to insist that renters must steam clean carpets or professionally clean the property.
+  - as of: 2026-07-21
+  - quote: "Rental providers and agents often try to insist that renters must steam clean carpets or professionally clean the property."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/moving-out/
+- **[practical-effect]** Tenants Victoria reports that some rental providers and agents tell renters that the utilities need to stay on for a period after the renter moves out.
+  - as of: 2026-07-21
+  - quote: "Some rental providers and agents will tell you that the utilities need to stay on for a period of time after you move out, usually saying this is needed for the final inspection or to show the property to a new renter. You do not need to do this."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/moving-out/
+- **[practical-effect]** Tenants Victoria states that renters do not need to keep the utilities on for a period after moving out.
+  - as of: 2026-07-21
+  - quote: "Some rental providers and agents will tell you that the utilities need to stay on for a period of time after you move out, usually saying this is needed for the final inspection or to show the property to a new renter. You do not need to do this."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/moving-out/
+- **[practical-effect]** Rental Dispute Resolution Victoria reports that disputes often come up after the rental agreement has ended.
+  - as of: 2026-08-14
+  - quote: "In her experience, disputes often come up after the rental agreement has ended and there’s a disagreement over the"
+  - source: https://www.rdrv.vic.gov.au/who-maintains-gutters-gardens-and-pools-rental
+- **[practical-effect]** Deputy President Kylea Campana observes that there is often an increase in gutter disputes when trees start losing their leaves in autumn.
+  - as of: 2026-08-14
+  - quote: "Deputy President, Kylea Campana is an experienced lawyer who specialises in rental law."
+  - quote: "Campana recommends that rental providers conduct annual maintenance checks to help meet their responsibility to keep gutters clear and working. She also observes there’s often an increase in gutter disputes when trees start losing their leaves in autumn."
+  - source: https://www.rdrv.vic.gov.au/who-maintains-gutters-gardens-and-pools-rental
+
+### Changed on (15)
+
+- **[changed-on]** From 29 March 2021 a new term in Victoria's standard rental agreement form allows rental providers in some circumstances to require the renter to have the property professionally cleaned, or cleaned to a professional standard.
+  - as of: 2021-03-29
+  - quote: "A new term in the standard rental agreement form, used for all rental agreements from 29 March 2021, allows rental providers, in some circumstances, to require you to have the property professionally cleaned, or cleaned to a professional standard."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/moving-out/
+- **[changed-on]** Under the changes that began on 29 March 2021, public housing renters in Victoria can add items such as picture hooks, wireless doorbells and letterbox locks without getting permission from their local housing office.
+  - as of: 2021-03-29
+  - quote: "The Residential Tenancies Act 1997 has been updated and the new rental laws began on 29 March 2021."
+  - quote: "It is now going to be easier to make minor modifications. Renters can now add things like picture hooks, wireless doorbells and letterbox locks without getting permission from their local housing office."
+  - source: https://www.housing.vic.gov.au/about/housing-news/residential-tenancy-changes
+- **[changed-on]** For renter duties, the Victorian definition of damage and fair wear and tear was standardised as part of the rental law changes that began on 29 March 2021.
+  - as of: 2021-03-29
+  - quote: "The Residential Tenancies Act 1997 has been updated and the new rental laws began on 29 March 2021."
+  - quote: "Definitions for ‘damage and fair wear and tear’, ‘cleanliness’, and ‘urgent’ repairs have been standardised and are available from Consumer Affairs Victoria."
+  - source: https://www.housing.vic.gov.au/about/housing-news/residential-tenancy-changes
+- **[changed-on]** For renter duties, the Victorian definition of cleanliness was standardised as part of the rental law changes that began on 29 March 2021.
+  - as of: 2021-03-29
+  - quote: "The Residential Tenancies Act 1997 has been updated and the new rental laws began on 29 March 2021."
+  - quote: "Definitions for ‘damage and fair wear and tear’, ‘cleanliness’, and ‘urgent’ repairs have been standardised and are available from Consumer Affairs Victoria."
+  - source: https://www.housing.vic.gov.au/about/housing-news/residential-tenancy-changes
+- **[changed-on]** For renter duties, the Victorian definition of urgent repairs was standardised as part of the rental law changes that began on 29 March 2021.
+  - as of: 2021-03-29
+  - quote: "The Residential Tenancies Act 1997 has been updated and the new rental laws began on 29 March 2021."
+  - quote: "Definitions for ‘damage and fair wear and tear’, ‘cleanliness’, and ‘urgent’ repairs have been standardised and are available from Consumer Affairs Victoria."
+  - source: https://www.housing.vic.gov.au/about/housing-news/residential-tenancy-changes
+- **[changed-on]** From 2 March 2020, renters in Victoria can keep a pet at a rental property with the rental provider's consent.
+  - as of: 2020-03-02
+  - quote: "Effective 2 March 2020, renters can now keep pets at a rental property with the rental provider’s consent. A rental provider cannot unreasonably refuse a request to keep a pet."
+  - source: https://www.propertyme.com.au/blog/industry-news/new-vic-residential-tenancy-laws
+- **[changed-on]** From 2 March 2020, a rental provider cannot unreasonably refuse a renter's request to keep a pet at a rental property.
+  - as of: 2020-03-02
+  - quote: "Effective 2 March 2020, renters can now keep pets at a rental property with the rental provider’s consent. A rental provider cannot unreasonably refuse a request to keep a pet."
+  - source: https://www.propertyme.com.au/blog/industry-news/new-vic-residential-tenancy-laws
+- **[changed-on]** Rental Dispute Resolution Victoria was established in 2025.
+  - as of: 2025-12-31
+  - quote: "RDRV was established in 2025 as part of the response to the Housing Statement released in 2024"
+  - source: https://www.rdrv.vic.gov.au/about-rdrv
+- **[changed-on]** Rental Dispute Resolution Victoria was established as part of the response to the Housing Statement.
+  - as of: 2025-12-31
+  - quote: "RDRV was established in 2025 as part of the response to the Housing Statement released in 2024"
+  - source: https://www.rdrv.vic.gov.au/about-rdrv
+- **[changed-on]** Major reforms to the Residential Tenancies Act came into effect on 25 November 2025.
+  - as of: 2025-11-25
+  - quote: "Major reforms to the Residential Tenancies Act came into effect on 25 November 2025"
+  - source: https://reiv.com.au/advocacy/residential-tenancies-act-1997
+- **[changed-on]** Consumer Affairs Victoria's guidance page on when a rental provider can enter a Victorian rental property records that it was last updated on 23 April 2025.
+  - as of: 2025-04-23
+  - quote: "Last updated: 23 April 2025"
+  - source: https://www.consumer.vic.gov.au/housing/renting/rental-providers-inspecting-or-entering-a-property/when-a-rental-provider-can-enter-a-property
+- **[changed-on]** The Real Estate Institute of Victoria states that a raft of changes was legislated in 2018.
+  - as of: 2026-08-14
+  - quote: "Beyond the raft of changes legislated in 2018 and implemented in 2021"
+  - source: https://reiv.com.au/advocacy/residential-tenancies-act-1997
+- **[changed-on]** The Real Estate Institute of Victoria states that a raft of changes was implemented in 2021.
+  - as of: 2026-08-14
+  - quote: "Beyond the raft of changes legislated in 2018 and implemented in 2021"
+  - source: https://reiv.com.au/advocacy/residential-tenancies-act-1997
+- **[changed-on]** Rental Dispute Resolution Victoria was launched in June 2025.
+  - as of: 2025-06-30
+  - quote: "Rental Dispute Resolution Victoria (RDRV), launched in June 2025, is a new government initiative designed to streamline the handling of rental disputes across the state."
+  - source: https://reiv.com.au/advocacy/rental-dispute-resolution-victoria
+- **[changed-on]** Rental Dispute Resolution Victoria was launched to streamline the handling of rental disputes.
+  - as of: 2025-06-30
+  - quote: "Rental Dispute Resolution Victoria (RDRV), launched in June 2025, is a new government initiative designed to streamline the handling of rental disputes across the state."
+  - source: https://reiv.com.au/advocacy/rental-dispute-resolution-victoria
+
+### Disputed between sources (4)
+
+- **[disputed-between]** Renter duties are stated by aussierentlaws.com to require at least 24 hours written notice before a routine inspection in Victoria.
+  - as of: 2026-03-09
+  - quote: "They must give written notice at least 24 hours before the inspection."
+  - quote: "At least 7 days notice in writing:"
+  - quote: "To do a routine inspection after you have lived at the property for at least 3 months and not more often than every 6 months"
+  - source: https://aussierentlaws.com/victoria/routine-inspections-protecting-tenant-standards-vic
+  - source: https://tenantsvic.org.au/explore-topics/during-your-tenancy/privacy-while-renting/private-rental/
+- **[disputed-between]** Harcourts states that, regarding renter duties, prospective tenants can only be shown through in the 14 days before the termination date.
+  - as of: 2026-08-14
+  - quote: "Prospective tenants can only be shown through in the 14 days before the termination date specified in the notice"
+  - quote: "The open inspection must happen no more than 21 days before the end of the rental agreement."
+  - source: https://harcourts.net/au/office/trends/resources/news-and-media/routine-inspections-photos-landlord-attendance
+  - source: https://www.consumer.vic.gov.au/housing/renting/rental-providers-inspecting-or-entering-a-property/when-a-rental-provider-can-enter-a-property
+- **[disputed-between]** Consumer Affairs Victoria states that, regarding renter duties, an open inspection must happen no more than 21 days before the end of the rental agreement.
+  - as of: 2026-08-14
+  - quote: "Prospective tenants can only be shown through in the 14 days before the termination date specified in the notice"
+  - quote: "The open inspection must happen no more than 21 days before the end of the rental agreement."
+  - source: https://harcourts.net/au/office/trends/resources/news-and-media/routine-inspections-photos-landlord-attendance
+  - source: https://www.consumer.vic.gov.au/housing/renting/rental-providers-inspecting-or-entering-a-property/when-a-rental-provider-can-enter-a-property
+- **[disputed-between]** Tenants Victoria states renters can only be asked to pay for professional cleaning in defined circumstances.
+  - as of: 2026-05-22
+  - quote: "(commonly an end-of-lease cleaning clause), you’re normally required to arrange professional cleaning before vacating."
+  - quote: "Under the term, renters can only be asked to pay for professional cleaning if:"
+  - quote: "The property was professionally cleaned, or cleaned to a professional standard, immediately before the renter moved in, and the landlord or agent told them this had been done, or"
+  - source: https://carpetcleaningpcc.com.au/landlord-carpet-cleaning-requirements-melbourne/
+  - source: https://tenantsvic.org.au/explore-topics/issues-with-your-landlord/consumer-affairs-victoria-guidelines/
+
+### Echoed without a primary source (9)
+
+- **[echoed-claim]** Harcourts states that the purpose of routine inspections is not to check renter duties, such as whether tenants have made their beds.
+  - as of: 2026-08-14
+  - quote: "The purpose of Routine Inspections is not to check if the tenant's have made their beds or if all the dishes are put away, but to ensure that the property is maintained"
+  - source: https://harcourts.net/au/office/trends/resources/news-and-media/routine-inspections-photos-landlord-attendance
+- **[echoed-claim]** Harcourts states that the purpose of routine inspections is not to check renter duties, such as whether tenants have put all the dishes away.
+  - as of: 2026-08-14
+  - quote: "The purpose of Routine Inspections is not to check if the tenant's have made their beds or if all the dishes are put away, but to ensure that the property is maintained"
+  - source: https://harcourts.net/au/office/trends/resources/news-and-media/routine-inspections-photos-landlord-attendance
+- **[echoed-claim]** Haven Agents states that new rental laws came into effect on 29 March 2021.
+  - as of: 2021-03-29
+  - quote: "New rental laws came into effect on 29 March 2021."
+  - source: https://www.havenagents.com.au/residential-tenancies-act-changes-2021/
+- **[echoed-claim]** Haven Agents states that a term in a rental agreement can only require professional cleaning if it is needed to return the property to the condition it was in at the start of the rental agreement, taking into account fair wear and tear.
+  - as of: 2021-03-29
+  - quote: "A term in a rental agreement can only require professional cleaning if it is needed to return the property to the condition it was in at the start of the rental agreement, taking into account fair wear and tear."
+  - source: https://www.havenagents.com.au/residential-tenancies-act-changes-2021/
+- **[echoed-claim]** The Real Estate Institute of Victoria states that 90% of cases have been settled without a formal VCAT hearing.
+  - as of: 2026-08-14
+  - quote: "90% of cases have been settled without a formal VCAT hearing"
+  - source: https://reiv.com.au/advocacy/rental-dispute-resolution-victoria
+- **[echoed-claim]** The Real Estate Institute of Victoria states that Rental Dispute Resolution Victoria is expected to take on 55% of VCAT's Residential Tenancies List caseload in its first year.
+  - as of: 2026-08-14
+  - quote: "RDRV is expected to take on 55% of VCAT’s Residential Tenancies List caseload in its first year"
+  - source: https://reiv.com.au/advocacy/rental-dispute-resolution-victoria
+- **[echoed-claim]** A renter must return the home to the state it was in when they first moved in, excluding fair wear and tear.
+  - as of: 2026-06-03
+  - quote: "You must return the home to the state it was in when you first moved in, excluding fair wear and tear."
+  - quote: "hiring Best Carpet Steam Cleaning Melbourne ensures you meet every strict requirement without the stress"
+  - source: https://www.carpetsteammelbourne.com.au/end-of-lease-cleaning-checklist-victoria-2026-the-ultimate-bond-back-guide/
+- **[echoed-claim]** Best Carpet Steam Cleaning Melbourne states that cleaning issues account for nearly 70% of bond disputes in Victoria.
+  - as of: 2026-06-03
+  - quote: "Cleaning issues account for nearly 70% of bond disputes in Victoria."
+  - quote: "hiring Best Carpet Steam Cleaning Melbourne ensures you meet every strict requirement without the stress"
+  - source: https://www.carpetsteammelbourne.com.au/end-of-lease-cleaning-checklist-victoria-2026-the-ultimate-bond-back-guide/
+- **[echoed-claim]** Harcourts states that, for renter duties, a landlord or agent can inspect the whole premises during an inspection.
+  - as of: 2026-08-14
+  - quote: "A landlord or agent can inspect the whole premises during an inspection."
+  - source: https://harcourts.net/au/office/trends/resources/news-and-media/routine-inspections-photos-landlord-attendance

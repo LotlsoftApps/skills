@@ -1,0 +1,234 @@
+# rooming house
+
+Compiled 2026-08-16. Every claim carries the date its quote was true; renting law is amended and the regulator rewrites its guidance, both without announcing it.
+
+## Summary
+
+Written from the claims below and checked against them.
+
+Since 26 April 2017 Victorian rooming house operators must be licensed before they start operating, must display that licence at the front entrance, and can operate multiple premises under one licence. A rooming house is a building where four or more people can live in rented rooms, usually under separate agreements with the operator, and it must be registered with the local council. Minimum standards on privacy, security, safety and amenity apply whether a resident has a rooming house agreement or an individual rental agreement: from 26 February 2024 each resident's room must have two working power outlets freely available to the resident and additional to any used for operator amenities, from 26 February 2025 windows must have coverings that reasonably block light, and from 1 December 2025 each room must have a fixed heater secured to a wall, floor or ceiling, with an energy efficient fixed heater required from 1 December 2030. A resident owing at least seven days' rent may be given a notice to vacate with a minimum of 2 days' notice, a fixed term agreement ending requires at least 28 days' notice before the end, and immediate notice can be given for serious disruption by a resident or their visitors.
+
+## Claims (42)
+
+### Documented position (24)
+
+- **[documented-position]** A Victorian rooming house is defined by Consumer Affairs Victoria as a building where four or more people can live in rented rooms.
+  - as of: 2026-03-30
+  - quote: "A rooming house is a building where four or more people can live in rented rooms, some of which might be shared."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** Consumer Affairs Victoria states that a Victorian rooming house is different from a share house.
+  - as of: 2026-03-30
+  - quote: "The rooming house is managed by a rooming house operator and individual residents usually have separate agreements with the operator."
+  - quote: "It is different to a share house, where everyone signs the same agreement."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** Consumer Affairs Victoria states that a Victorian rooming house operator can decide who can live in the property without consulting the residents.
+  - as of: 2026-03-30
+  - quote: "The operator can decide who can live in the property without consulting the residents."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** Victorian rooming house operators must comply with minimum standards relating to privacy, security, safety and amenity.
+  - as of: 2026-03-30
+  - quote: "Rooming house operators must comply with minimum standards relating to:"
+  - quote: "privacy"
+  - quote: "security"
+  - quote: "safety, and"
+  - quote: "amenity."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** The Victorian rooming house minimum standards apply to a resident who has a rooming house agreement.
+  - as of: 2026-03-30
+  - quote: "The minimum standards apply to a rooming house and its rooms whether the resident has a rooming house agreement or an individual rental agreement."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** The Victorian rooming house minimum standards apply to a resident who has an individual rental agreement.
+  - as of: 2026-03-30
+  - quote: "The minimum standards apply to a rooming house and its rooms whether the resident has a rooming house agreement or an individual rental agreement."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** A door used to enter or exit a resident's room in a Victorian rooming house must be fitted with a lock operated by a key from the outside that can be unlocked from inside without a key.
+  - as of: 2026-03-30
+  - quote: "Any door used to enter or exit from a resident’s room must be fitted with a lock that is operated by a key from the outside and can be unlocked from inside without a key."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** Victorian rooming house operators must provide one washing machine in good working order for every 12 or fewer residents.
+  - as of: 2026-03-30
+  - quote: "The rooming house operator must also provide one washing machine, that is in good working order, for every 12 or fewer residents."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** All gas installations, fixtures or fittings in a Victorian rooming house must be checked at least once every two years by a licensed gas fitter.
+  - as of: 2026-03-30
+  - quote: "All gas installations, fixtures or fittings must be checked at least once every two years by a licensed gas fitter."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** A Victorian rooming house must be structurally sound.
+  - as of: 2026-03-30
+  - quote: "A rooming house must be structurally sound and weatherproof."
+  - quote: "A rooming house must also be free from mould and damp caused by or related to the building structure."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** A Victorian rooming house must be weatherproof.
+  - as of: 2026-03-30
+  - quote: "A rooming house must be structurally sound and weatherproof."
+  - quote: "A rooming house must also be free from mould and damp caused by or related to the building structure."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** A Victorian rooming house must be free from mould and damp caused by or related to the building structure.
+  - as of: 2026-03-30
+  - quote: "A rooming house must be structurally sound and weatherproof."
+  - quote: "A rooming house must also be free from mould and damp caused by or related to the building structure."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** Victorian rooming houses must be registered with the local council.
+  - as of: 2026-03-30
+  - quote: "Rooming houses must be registered with the local council. The council may inspect the rooming house to see if it meets the standards set out in the Public Health and Wellbeing (Prescribed Accommodation) Regulations 2020 ."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** The local council may inspect Victorian rooming houses against the Public Health and Wellbeing (Prescribed Accommodation) Regulations 2020.
+  - as of: 2026-03-30
+  - quote: "Rooming houses must be registered with the local council. The council may inspect the rooming house to see if it meets the standards set out in the Public Health and Wellbeing (Prescribed Accommodation) Regulations 2020 ."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[documented-position]** A Victorian rooming house operator must apply for and be granted a licence before they can start operating a rooming house.
+  - as of: 2024-04-09
+  - quote: "Rooming house operators must apply for, and be granted, a licence before they can start operating a rooming house."
+  - quote: "Rooming house operators licensing scheme - Consumer Affairs Victoria"
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/rooming-house-operators/licensing/rooming-house-operators-licensing-scheme
+- **[documented-position]** A successful Victorian rooming house operator licence application results in a licence for three years.
+  - as of: 2024-04-09
+  - quote: "If your application is successful, you will receive a licence for three years."
+  - quote: "Rooming house operators licensing scheme - Consumer Affairs Victoria"
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/rooming-house-operators/licensing/rooming-house-operators-licensing-scheme
+- **[documented-position]** A Victorian rooming house operator whose licence renewal application is unsuccessful must issue a 120-day notice to vacate under section 91ZZM or section 142ZR of the Residential Tenancies Act 1997.
+  - as of: 2024-04-09
+  - quote: "If your application for a renewal of a licence is unsuccessful, you must issue a 120-day notice to vacate under section 91ZZM or section 142ZR of the Residential Tenancies Act 1997 (as appropriate) within the required time."
+  - quote: "Rooming house operators licensing scheme - Consumer Affairs Victoria"
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/rooming-house-operators/licensing/rooming-house-operators-licensing-scheme
+- **[documented-position]** The holder of a Victorian rooming house operator licence can operate multiple premises under a single licence.
+  - as of: 2024-04-09
+  - quote: "The holder of a rooming house operator licence can operate multiple premises under a single licence. They do not need a separate licence for each registered rooming house premises they operate."
+  - quote: "Rooming house operators licensing scheme - Consumer Affairs Victoria"
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/rooming-house-operators/licensing/rooming-house-operators-licensing-scheme
+- **[documented-position]** A Victorian rooming house resident who owes at least seven days' rent can be given a notice to vacate with a minimum of 2 days' notice.
+  - as of: 2025-11-24
+  - quote: "The resident owes at least seven days’ rent ."
+  - quote: "2 days"
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/notice-to-vacate/giving-notice-to-a-rooming-house-resident
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/notice-to-vacate/giving-notice-to-a-rooming-house-resident
+- **[documented-position]** A Victorian rooming house operator must give at least 28 days' notice before the end of a fixed term rooming house agreement when giving a notice to vacate for that reason.
+  - as of: 2025-11-24
+  - quote: "A fixed term rooming house agreement is coming to an end ."
+  - quote: "28 days before the end of the fixed-term agreement."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/notice-to-vacate/giving-notice-to-a-rooming-house-resident
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/notice-to-vacate/giving-notice-to-a-rooming-house-resident
+- **[documented-position]** A Victorian rooming house operator can give an immediate notice to vacate if the resident or their visitors seriously disrupt the peace and quiet of other residents.
+  - as of: 2025-11-24
+  - quote: "The resident or their visitors seriously disrupt the peace and quiet of other residents."
+  - quote: "Immediately"
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/notice-to-vacate/giving-notice-to-a-rooming-house-resident
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/notice-to-vacate/giving-notice-to-a-rooming-house-resident
+- **[documented-position]** Tenants Victoria states that Victorian rooming house operators must display their licence in a prominent place at the front entrance of the rooming house.
+  - as of: 2026-02-01
+  - quote: "Rooming house operators must display their licence in a prominent place at the front entrance of the rooming house. It is an offence if they do not display it."
+  - source: https://tenantsvic.org.au/explore-topics/rental-types/rooming-houses/
+- **[documented-position]** Tenants Victoria states that it is an offence if Victorian rooming house operators do not display their licence in a prominent place at the front entrance of the rooming house.
+  - as of: 2026-02-01
+  - quote: "Rooming house operators must display their licence in a prominent place at the front entrance of the rooming house. It is an offence if they do not display it."
+  - source: https://tenantsvic.org.au/explore-topics/rental-types/rooming-houses/
+- **[documented-position]** Consumer Affairs Victoria states that to date no rooming house owner in Victoria has been granted an exemption from the rooming house minimum standards.
+  - as of: 2026-03-30
+  - quote: "To date, no rooming house owner in Victoria has been granted an exemption."
+  - quote: "In exceptional circumstances, the Director of Consumer Affairs Victoria may exempt a rooming house owner from some standards in the Regulations."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+
+### Practical effect (2)
+
+- **[practical-effect]** Consumer Affairs Victoria states that each resident of a Victorian rooming house usually has a separate agreement with the operator.
+  - as of: 2026-03-30
+  - quote: "The rooming house is managed by a rooming house operator and individual residents usually have separate agreements with the operator."
+  - quote: "It is different to a share house, where everyone signs the same agreement."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[practical-effect]** Consumer Affairs Victoria states that in a share house everyone signs the same agreement.
+  - as of: 2026-03-30
+  - quote: "The rooming house is managed by a rooming house operator and individual residents usually have separate agreements with the operator."
+  - quote: "It is different to a share house, where everyone signs the same agreement."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+
+### Changed on (11)
+
+- **[changed-on]** The Victorian rooming house operators licensing scheme was established under the Rooming House Operators Act 2016.
+  - as of: 2017-04-26
+  - quote: "The rooming house operators licensing scheme, established under the Rooming House Operators Act 2016 , came into effect on 26 April 2017."
+  - quote: "Rooming house operators licensing scheme - Consumer Affairs Victoria"
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/rooming-house-operators/licensing/rooming-house-operators-licensing-scheme
+- **[changed-on]** The Victorian rooming house operators licensing scheme came into effect on 26 April 2017.
+  - as of: 2017-04-26
+  - quote: "The rooming house operators licensing scheme, established under the Rooming House Operators Act 2016 , came into effect on 26 April 2017."
+  - quote: "Rooming house operators licensing scheme - Consumer Affairs Victoria"
+  - source: https://www.consumer.vic.gov.au/licensing-and-registration/rooming-house-operators/licensing/rooming-house-operators-licensing-scheme
+- **[changed-on]** Sections 87 to 93 of the Rooming House Operators Act 2016 commenced on 26 April 2017.
+  - as of: 2017-04-26
+  - quote: "Rooming House Operators Act 2016, No. 26/2016"
+  - quote: "Commencement Date: Ss 87–93 on 26.4.17: Special Gazette (No. 57) 7.3.17: p. 1"
+  - source: https://content.legislation.vic.gov.au/sites/default/files/2026-07/97-109aa113-authorised.pdf
+- **[changed-on]** Since 1 December 2025, Victorian rooming house operators must install a fixed heater secured to a wall, floor or ceiling of each resident's room.
+  - as of: 2025-12-01
+  - quote: "Since 1 December 2025, rooming house operators must install a fixed heater secured to a wall, floor or ceiling of each resident’s room."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[changed-on]** From 1 December 2030, Victorian rooming house operators will be required to provide an energy efficient fixed heater secured to a wall, floor or ceiling in each resident's room.
+  - as of: 2026-03-30
+  - quote: "Further changes relating to heating standards will commence from 1 December 2030 when rooming house operators will be required to provide an energy efficient fixed heater secured to a wall, floor or ceiling in each resident’s room."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[changed-on]** From 26 February 2024, the two power outlets required in a Victorian rooming house resident's room must be freely available for the resident's use.
+  - as of: 2024-02-26
+  - quote: "A resident’s room must have at least two power outlets in working order. From 26 February 2024 , these power outlets must be freely available for use by the resident and are in addition to any other power outlets already used to power amenities by the rooming house operator."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[changed-on]** From 26 February 2024, the two power outlets required in a Victorian rooming house resident's room must be in addition to any outlets already used to power amenities by the operator.
+  - as of: 2024-02-26
+  - quote: "A resident’s room must have at least two power outlets in working order. From 26 February 2024 , these power outlets must be freely available for use by the resident and are in addition to any other power outlets already used to power amenities by the rooming house operator."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[changed-on]** From 26 February 2025, a window in a Victorian rooming house resident's room must be fitted with a window covering.
+  - as of: 2025-02-26
+  - quote: "From 26 February 2025 , a window in a resident’s room must be fitted with a window covering that also reasonably blocks light."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[changed-on]** From 26 February 2025, a window covering fitted to a window in a Victorian rooming house resident's room must reasonably block light.
+  - as of: 2025-02-26
+  - quote: "From 26 February 2025 , a window in a resident’s room must be fitted with a window covering that also reasonably blocks light."
+  - source: https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/rooming-house-minimum-standards
+- **[changed-on]** A new rooming house heating minimum standard requires a fixed heater for each resident's room.
+  - as of: 2025-12-01
+  - quote: "1 December 2025"
+  - quote: "New rooming house minimum standard – heating standard for rooming houses"
+  - quote: "All rooming house providers must install a fixed heater secured to a wall, floor or ceiling for each resident’s room."
+  - source: https://www.consumer.vic.gov.au/housing/renting/new-changes-to-the-rental-laws
+  - source: https://www.consumer.vic.gov.au/housing/renting/new-changes-to-the-rental-laws
+  - source: https://www.consumer.vic.gov.au/housing/renting/new-changes-to-the-rental-laws
+- **[changed-on]** The new rooming house heating minimum standard takes effect on 1 December 2025.
+  - as of: 2025-12-01
+  - quote: "1 December 2025"
+  - quote: "New rooming house minimum standard – heating standard for rooming houses"
+  - quote: "All rooming house providers must install a fixed heater secured to a wall, floor or ceiling for each resident’s room."
+  - source: https://www.consumer.vic.gov.au/housing/renting/new-changes-to-the-rental-laws
+  - source: https://www.consumer.vic.gov.au/housing/renting/new-changes-to-the-rental-laws
+  - source: https://www.consumer.vic.gov.au/housing/renting/new-changes-to-the-rental-laws
+
+### Echoed without a primary source (5)
+
+- **[echoed-claim]** Jabel Property states that a well-located and professionally managed rooming house can achieve gross yields of 8%-10%.
+  - as of: 2025-08-19
+  - quote: "In Victoria, the average rental yield for a standard residential investment property sits around 3% to 4% . In contrast, a well-located and professionally managed rooming house can achieve gross yields of 8%–10% , with many investors reporting 150%+ rental uplift after conversion."
+  - source: https://www.jabelproperty.com.au/rooming-house-resource-hub/whyinvestinroominghouses
+- **[echoed-claim]** Jabel Property states that such a rooming house's gross yields of 8%-10% are against an average Victorian residential investment yield of around 3% to 4%.
+  - as of: 2025-08-19
+  - quote: "In Victoria, the average rental yield for a standard residential investment property sits around 3% to 4% . In contrast, a well-located and professionally managed rooming house can achieve gross yields of 8%–10% , with many investors reporting 150%+ rental uplift after conversion."
+  - source: https://www.jabelproperty.com.au/rooming-house-resource-hub/whyinvestinroominghouses
+- **[echoed-claim]** Jabel Property states that vacancy rates in well-managed rooming houses tend to stay below 2%.
+  - as of: 2025-08-19
+  - quote: "Because of this, vacancy rates in well-managed rooming houses tend to stay below 2% , significantly outperforming the general rental market."
+  - source: https://www.jabelproperty.com.au/rooming-house-resource-hub/whyinvestinroominghouses
+- **[echoed-claim]** An $800,000 Melbourne house that generates $550 per week as a single tenancy can be reconfigured as a rooming house.
+  - as of: 2026-04-24
+  - quote: "Rooming house investment in Melbourne is one of the highest-yield strategies legally available — done well, an $800,000 house generating $550 per week as a single tenancy can be reconfigured to generate $1,250 to $1,600 per week."
+  - source: https://premiumrea.com.au/blog/rooming-house-melbourne-buyers-agent-2026-guide
+- **[echoed-claim]** A rooming house created by reconfiguring an $800,000 Melbourne house can generate $1,250 to $1,600 per week.
+  - as of: 2026-04-24
+  - quote: "Rooming house investment in Melbourne is one of the highest-yield strategies legally available — done well, an $800,000 house generating $550 per week as a single tenancy can be reconfigured to generate $1,250 to $1,600 per week."
+  - source: https://premiumrea.com.au/blog/rooming-house-melbourne-buyers-agent-2026-guide

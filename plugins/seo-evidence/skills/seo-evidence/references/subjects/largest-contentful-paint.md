@@ -1,0 +1,283 @@
+# Largest Contentful Paint
+
+Compiled 2026-08-14. Every claim carries the date its quote was true; search engines change their documentation without announcing it.
+
+## Summary
+
+Written from the claims below and checked against them.
+
+Largest Contentful Paint reports the render time of the largest image, text block, or video visible in the viewport relative to when the user first navigated to the page. As documented by web.dev and Google Search Central, a good LCP is 2.5 seconds or less and a poor threshold is 4 seconds, measured at the 75th percentile of page loads segmented across mobile and desktop; LCP includes unload time, connection setup, redirect, and other Time To First Byte delays, which can create field and lab differences. In Chrome, measurement stops at the first tap, scroll, or keypress; the metric became stable in Chrome 79, and later releases changed it: Chrome 83 fixed subframe inputs and scrolls, Chrome 88 excluded full viewport images and stopped recording after input in out-of-process iframes, Chrome 96 used the full page viewport when ignoring images, Chrome 112 began ignoring images below 0.05 bits of image data per displayed pixel, Chrome 116 made videos and animated images eligible in UKM and CrUX reporting but not PerformanceObserver observations in JavaScript, and Chrome 130 made transparent text with no visible decorations ineligible. A slightly coarsened render time has been available from Chrome 133 without Timing-Allow-Origin.
+
+## Claims (55)
+
+### Documented position (31)
+
+- **[documented-position]** web.dev's Largest Contentful Paint article states that LCP reports the render time of the largest image, text block, or video visible in the viewport, relative to when the user first navigated to the page.
+  - as of: 2025-09-04
+  - quote: "LCP reports the render time of the largest image, text block, or video visible in the viewport, relative to when the user first navigated to the page."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that a good Largest Contentful Paint value is 2.5 seconds or less.
+  - as of: 2025-09-04
+  - quote: "A good LCP value is 2.5 seconds or less."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that the threshold to measure Largest Contentful Paint against is the 75th percentile of page loads.
+  - as of: 2025-09-04
+  - quote: "To ensure you're hitting this target for most of your users, a good threshold to measure is the 75th percentile of page loads, segmented across mobile and desktop devices."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that the Largest Contentful Paint measurement threshold is segmented across mobile and desktop devices.
+  - as of: 2025-09-04
+  - quote: "To ensure you're hitting this target for most of your users, a good threshold to measure is the 75th percentile of page loads, segmented across mobile and desktop devices."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev's article on defining Core Web Vitals thresholds concludes that 4 seconds is a reasonable "poor" threshold for Largest Contentful Paint.
+  - as of: 2025-05-07
+  - quote: "Thus, we conclude that 2.5 seconds is a reasonable "good" threshold, and 4 seconds is a reasonable "poor" threshold for Largest Contentful Paint."
+  - source: https://web.dev/articles/defining-core-web-vitals-thresholds
+- **[documented-position]** web.dev states that `<video>` elements are considered for Largest Contentful Paint.
+  - as of: 2025-09-04
+  - quote: "`<video>` elements (the poster image load time or first frame presentation time for videos is used—whichever is earlier)"
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that for a `<video>` element, the Largest Contentful Paint time is the earlier of the poster image load time and the first frame presentation time.
+  - as of: 2025-09-04
+  - quote: "`<video>` elements (the poster image load time or first frame presentation time for videos is used—whichever is earlier)"
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that `<image>` elements inside an `<svg>` element are among the element types considered for Largest Contentful Paint.
+  - as of: 2025-09-04
+  - quote: "the types of elements considered for Largest Contentful Paint are:"
+  - quote: "`<image>` elements inside an `<svg>` element"
+  - source: https://web.dev/articles/lcp
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that block-level elements containing text nodes or other inline-level text element children are among the element types considered for Largest Contentful Paint.
+  - as of: 2025-09-04
+  - quote: "the types of elements considered for Largest Contentful Paint are:"
+  - quote: "Block-level elements containing text nodes or other inline-level text element children."
+  - source: https://web.dev/articles/lcp
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that restricting Largest Contentful Paint to a limited set of element types was intentional in order to reduce complexity.
+  - as of: 2025-09-04
+  - quote: "Note that restricting the elements to this limited set was intentional in order to reduce complexity."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that Largest Contentful Paint measurements use heuristics to exclude certain elements that users are likely to see as non-contentful.
+  - as of: 2025-09-04
+  - quote: "As well as only considering some elements, LCP measurements use heuristics to exclude certain elements that users are likely to see as "non-contentful". For Chromium-based browsers, these include:"
+  - quote: "Elements that cover the full viewport, that are likely considered as background rather than content"
+  - source: https://web.dev/articles/lcp
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that the elements excluded by Largest Contentful Paint measurements include elements that cover the full viewport.
+  - as of: 2025-09-04
+  - quote: "As well as only considering some elements, LCP measurements use heuristics to exclude certain elements that users are likely to see as "non-contentful". For Chromium-based browsers, these include:"
+  - quote: "Elements that cover the full viewport, that are likely considered as background rather than content"
+  - source: https://web.dev/articles/lcp
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that the size of the element reported for Largest Contentful Paint is typically the size that is visible to the user within the viewport.
+  - as of: 2025-09-04
+  - quote: "The size of the element reported for LCP is typically the size that's visible to the user within the viewport."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that for image elements resized from their intrinsic size, the size reported for Largest Contentful Paint is either the visible size or the intrinsic size, whichever is smaller.
+  - as of: 2025-09-04
+  - quote: "For image elements that have been resized from their intrinsic size, the size that gets reported is either the visible size or the intrinsic size, whichever is smaller."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that for all elements, Largest Contentful Paint does not consider margins, paddings, or borders applied using CSS.
+  - as of: 2025-09-04
+  - quote: "For all elements, LCP doesn't consider margins, paddings, or borders applied using CSS."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that for text elements, Largest Contentful Paint considers only the smallest rectangle that can contain all text nodes.
+  - as of: 2025-09-04
+  - quote: "For text elements, LCP considers only the smallest rectangle that can contain all text nodes."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that the browser will stop reporting new Largest Contentful Paint entries as soon as the user interacts with the page via a tap, scroll, or keypress.
+  - as of: 2025-09-04
+  - quote: "The browser will stop reporting new entries as soon as the user interacts with the page (via a tap, scroll, or keypress), as user interaction often changes what's visible to the user (which is especially true with scrolling)."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that if the largest contentful element is removed from the viewport or from the DOM, the largest contentful element remains the largest contentful element unless a larger element is rendered.
+  - as of: 2025-09-04
+  - quote: "If the largest contentful element is removed from the viewport, or even from the DOM, it remains the largest contentful element unless a larger element is rendered."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that for analysis purposes you should only report the most recently dispatched Largest Contentful Paint PerformanceEntry to your analytics service.
+  - as of: 2025-09-04
+  - quote: "For analysis purposes, you should only report the most recently dispatched PerformanceEntry to your analytics service."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** Google tools which measure Largest Contentful Paint do not report the metric if the page was loaded in the background.
+  - as of: 2025-09-04
+  - quote: "Google tools that measure LCP don't report this metric if the page was loaded in the background, as it does not reflect the user-perceived load time."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that Largest Contentful Paint includes unload time from the previous page, connection set up time, redirect time, and other Time To First Byte delays.
+  - as of: 2025-09-04
+  - quote: "It is important to note that LCP includes any unload time from the previous page, connection set up time, redirect time, and other Time To First Byte (TTFB) delays which can be significant when measured in the field and can lead to differences between field and lab measurements."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** web.dev states that the unload time, connection set up time, redirect time, and other Time To First Byte delays included in Largest Contentful Paint can lead to differences between field and lab measurements.
+  - as of: 2025-09-04
+  - quote: "It is important to note that LCP includes any unload time from the previous page, connection set up time, redirect time, and other Time To First Byte (TTFB) delays which can be significant when measured in the field and can lead to differences between field and lab measurements."
+  - source: https://web.dev/articles/lcp
+- **[documented-position]** For Largest Contentful Paint (LCP), the low-entropy image threshold is 0.05 bits of image data per displayed pixel.
+  - as of: 2023-04-06
+  - quote: "The threshold is currently 0.05 bits of image data per displayed pixel, and images which fall below this threshold will not be considered for LCP."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2023_04_lcp.md
+- **[documented-position]** For Largest Contentful Paint (LCP), images below the low-entropy image threshold are not considered for LCP.
+  - as of: 2023-04-06
+  - quote: "The threshold is currently 0.05 bits of image data per displayed pixel, and images which fall below this threshold will not be considered for LCP."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2023_04_lcp.md
+- **[documented-position]** Videos were previously ignored for Largest Contentful Paint unless they had a poster image.
+  - as of: 2023-08-22
+  - quote: "Videos have previously been ignored for LCP, unless they have a poster image."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2023_08_lcp.md
+- **[documented-position]** The Chromium metrics changelog states that the Chrome 116 change to Largest Contentful Paint handling of animated content does not affect PerformanceObserver observations measured in JavaScript.
+  - as of: 2023-08-22
+  - quote: "Starting around Chrome 116, we're making two changes to the way that LCP handles animated images and videos."
+  - quote: "Note for now, this only affects UKM (and so CrUX) reporting of LCP and does not affect PerformanceObserver observations as measured in JavaScript."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2023_08_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2023_08_lcp.md
+- **[documented-position]** web.dev's Web Vitals article states that to provide a good user experience, Largest Contentful Paint should occur within 2.5 seconds of when the page first starts loading.
+  - as of: 2024-10-31
+  - quote: "Largest Contentful Paint (LCP): measures loading performance. To provide a good user experience, LCP should occur within 2.5 seconds of when the page first starts loading."
+  - source: https://web.dev/articles/vitals
+- **[documented-position]** Largest Contentful Paint's documented position, according to web.dev's Web Vitals article, is that tools assessing Core Web Vitals compliance should consider a page passing if it meets the recommended targets at the 75th percentile for all three metrics.
+  - as of: 2024-10-31
+  - quote: "Tools that assess Core Web Vitals compliance should consider a page passing if it meets the recommended targets at the 75th percentile for all three of the Core Web Vitals metrics."
+  - source: https://web.dev/articles/vitals
+- **[documented-position]** web.dev's Core Web Vitals thresholds article classifies a 75th percentile Largest Contentful Paint of 2 seconds as good.
+  - as of: 2025-05-07
+  - quote: "So, for example, a 75th percentile LCP of 2 seconds is classified as "good", while a 75th percentile LCP of 5 seconds is classified as "poor"."
+  - source: https://web.dev/articles/defining-core-web-vitals-thresholds
+- **[documented-position]** web.dev's Core Web Vitals thresholds article classifies a 75th percentile Largest Contentful Paint of 5 seconds as poor.
+  - as of: 2025-05-07
+  - quote: "So, for example, a 75th percentile LCP of 2 seconds is classified as "good", while a 75th percentile LCP of 5 seconds is classified as "poor"."
+  - source: https://web.dev/articles/defining-core-web-vitals-thresholds
+- **[documented-position]** Google's Search Central documentation on Core Web Vitals states that site owners should strive to have Largest Contentful Paint occur within the first 2.5 seconds of the page starting to load.
+  - as of: 2025-12-10
+  - quote: "Largest Contentful Paint (LCP): Measures loading performance. To provide a good user experience, strive to have LCP occur within the first 2.5 seconds of the page starting to load."
+  - source: https://developers.google.com/search/docs/appearance/core-web-vitals
+
+### Measured finding (5)
+
+- **[measured-finding]** web.dev's Core Web Vitals thresholds article labels its table of candidate Largest Contentful Paint thresholds as the percentage of CrUX origins classified as poor as of April 2020.
+  - as of: 2020-04-30
+  - quote: "% of CrUX origins classified as "poor" for candidate LCP thresholds as of April 2020"
+  - source: https://web.dev/articles/defining-core-web-vitals-thresholds
+- **[measured-finding]** web.dev's Core Web Vitals thresholds article reports that the 1.5 second Largest Contentful Paint threshold is not consistently achievable
+  - as of: 2025-05-07
+  - quote: "We find that the 1.5 and 2 second thresholds are not consistently achievable, while 2.5 seconds is consistently achievable."
+  - source: https://web.dev/articles/defining-core-web-vitals-thresholds
+- **[measured-finding]** The Chromium metrics changelog reports that the Chrome 83 change, which stopped Largest Contentful Paint measurement at input or scroll in any frame, produced a roughly 5% drop at the 75th percentile across all sites that use frames.
+  - as of: 2020-05-19
+  - quote: "Two bugs in the implementation of Largest Contentful Paint (LCP) were fixed in Chrome 83:"
+  - quote: "For the change that stops measuring LCP at input or scroll in any frame, we see a reduction in LCP at the higher percentiles on Android only (not desktop). Across all sites that use frames, we see the following impact."
+  - quote: "At the 75th percentile, a ~5% drop"
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2020_05_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2020_05_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2020_05_lcp.md
+- **[measured-finding]** The Chromium metrics changelog reports that the impact of the transparent-text exclusion on Largest Contentful Paint ecosystem metrics was minimal.
+  - as of: 2024-10-21
+  - quote: "## Exclude transparent text from LCP"
+  - quote: "We observed that this feature’s impact on ecosystem metrics was minimal and not statistically significant."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2024_10_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2024_10_lcp.md
+- **[measured-finding]** The Chromium metrics changelog reports that the impact of the transparent-text exclusion on Largest Contentful Paint ecosystem metrics was not statistically significant.
+  - as of: 2024-10-21
+  - quote: "## Exclude transparent text from LCP"
+  - quote: "We observed that this feature’s impact on ecosystem metrics was minimal and not statistically significant."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2024_10_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2024_10_lcp.md
+
+### Changed on (16)
+
+- **[changed-on]** A slightly coarsened render time for Largest Contentful Paint is available from Chrome 133 even when Timing-Allow-Origin is not provided.
+  - as of: 2025-09-04
+  - quote: "This was resolved in late 2024 and a slightly coarsened render time is available from Chrome 133 even when Timing-Allow-Origin is not provided."
+  - source: https://web.dev/articles/lcp
+- **[changed-on]** A slightly coarsened render time for Largest Contentful Paint was resolved in late 2024.
+  - as of: 2025-09-04
+  - quote: "This was resolved in late 2024 and a slightly coarsened render time is available from Chrome 133 even when Timing-Allow-Origin is not provided."
+  - source: https://web.dev/articles/lcp
+- **[changed-on]** In Chrome 112, Largest Contentful Paint began to ignore images with very low content relative to their display sizes.
+  - as of: 2023-04-06
+  - quote: "In Chrome 112, LCP will begin to ignore images with very low content relative to their display sizes."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2023_04_lcp.md
+- **[changed-on]** The Chromium metrics changelog states that the Largest Contentful Paint low-entropy image change was launched to Chrome users starting on roughly April 6, 2023.
+  - as of: 2023-04-06
+  - quote: "This change was launched to Chrome users starting on roughly April 6, 2023, and was rolled out to existing Chrome installs."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2023_04_lcp.md
+- **[changed-on]** The Chromium metrics changelog states that with the Chrome 116 change a video element can become a Largest Contentful Paint candidate, exactly like an image.
+  - as of: 2023-08-22
+  - quote: "Starting around Chrome 116, we're making two changes to the way that LCP handles animated images and videos."
+  - quote: "With this change, a video element can become an LCP candidate, exactly like an image."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2023_08_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2023_08_lcp.md
+- **[changed-on]** Animated GIFs and PNGs were previously not considered as Largest Contentful Paint candidates until they were fully loaded.
+  - as of: 2023-08-22
+  - quote: "Starting around Chrome 116, we're making two changes to the way that LCP handles animated images and videos."
+  - quote: "Animated images (animated GIFs and PNGs) were previously not considered as LCP candidates until they were fully loaded."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2023_08_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2023_08_lcp.md
+- **[changed-on]** The Chromium metrics changelog states that the Chrome 116 change to Largest Contentful Paint handling of animated content affects only UKM and CrUX reporting.
+  - as of: 2023-08-22
+  - quote: "Starting around Chrome 116, we're making two changes to the way that LCP handles animated images and videos."
+  - quote: "Note for now, this only affects UKM (and so CrUX) reporting of LCP and does not affect PerformanceObserver observations as measured in JavaScript."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2023_08_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2023_08_lcp.md
+- **[changed-on]** The Chromium metrics changelog states that in Chrome 88, full viewport images were no longer considered as the largest contentful paint.
+  - as of: 2021-01-19
+  - quote: "In Chrome 88, some bug fixes were made in the chromium implementation."
+  - quote: "Full viewport images, which are visually equivalent to background images, are no longer considered as the largest contentful paint."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2020_11_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2020_11_lcp.md
+- **[changed-on]** The Chromium metrics changelog states that in Chrome 88, Largest Contentful Paint stops recording after an input in an out of process iframe.
+  - as of: 2021-01-19
+  - quote: "In Chrome 88, some bug fixes were made in the chromium implementation."
+  - quote: "Largest Contentful Paint stops recording after an input in an out of process iframe."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2020_11_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2020_11_lcp.md
+- **[changed-on]** The Chromium metrics changelog states that the Chrome 96 fix made Largest Contentful Paint always use the full page viewport instead of the frame viewport when considering which images to ignore.
+  - as of: 2021-11-16
+  - quote: "In Chrome 96, a bug fix was made to the Chrome implementation."
+  - quote: "This fixes this issue by always using the full page viewport instead of frame viewport when considering which images to ignore."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2021_09_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2021_09_lcp.md
+- **[changed-on]** Largest Contentful Paint measurement stops at the first input or scroll on the page.
+  - as of: 2020-05-19
+  - quote: "Largest Contentful Paint measurement should stop at the first input or scroll on the page. In Chrome 83, inputs and scrolls in subframes were correctly accounted for."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2020_05_lcp.md
+- **[changed-on]** In Chrome 83, the Largest Contentful Paint rule correctly accounted for inputs and scrolls in subframes.
+  - as of: 2020-05-19
+  - quote: "Largest Contentful Paint measurement should stop at the first input or scroll on the page. In Chrome 83, inputs and scrolls in subframes were correctly accounted for."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2020_05_lcp.md
+- **[changed-on]** The Chrome 83 change stopped Largest Contentful Paint measurement at input or scroll in any frame.
+  - as of: 2020-05-19
+  - quote: "Two bugs in the implementation of Largest Contentful Paint (LCP) were fixed in Chrome 83:"
+  - quote: "For the change that stops measuring LCP at input or scroll in any frame, we see a reduction in LCP at the higher percentiles on Android only (not desktop). Across all sites that use frames, we see the following impact."
+  - quote: "At the 75th percentile, a ~5% drop"
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2020_05_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2020_05_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2020_05_lcp.md
+- **[changed-on]** In Chrome 130, transparent text with no visible decorations like shadows and strokes was made ineligible for Largest Contentful Paint, having previously been eligible.
+  - as of: 2024-10-21
+  - quote: "# Largest Contentful Paint Change in Chrome 130"
+  - quote: "When texts are transparent, and with no visible decorations like shadows, and strokes, they should be not eligible for LCP. But previously they are. We fixed this and did experiment to see if the fix would have impact on the LCP metric."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2024_10_lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/2024_10_lcp.md
+- **[changed-on]** The Chromium Largest Contentful Paint changelog records that in Chrome 79 the metric was elevated to stable.
+  - as of: 2019-12-10
+  - quote: "\* Chrome 79"
+  - quote: "Metric is elevated to stable; changes in metric definition will be reported in this log."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/lcp.md
+- **[changed-on]** The Chromium Largest Contentful Paint changelog records that changes in metric definition would from then on be reported in the log.
+  - as of: 2019-12-10
+  - quote: "\* Chrome 79"
+  - quote: "Metric is elevated to stable; changes in metric definition will be reported in this log."
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/lcp.md
+  - source: https://raw.githubusercontent.com/chromium/chromium/main/docs/speed/metrics_changelog/lcp.md
+
+### Echoed without a primary source (3)
+
+- **[echoed-claim]** NitroPack's guide to fixing Largest Contentful Paint asserts that three years after the introduction of Core Web Vitals, 33.3% of websites globally still struggle to pass LCP.
+  - as of: 2023-10-26
+  - quote: "Three years after the introduction of Core Web Vitals, a staggering 33.3% of websites globally still struggle to pass the notoriously challenging metric – Largest Contentful Paint (LCP)."
+  - source: https://nitropack.io/blog/fix-largest-contentful-paint/
+- **[echoed-claim]** Parachute Design's guide to Largest Contentful Paint asserts that a strong LCP score reduces bounce on landing pages.
+  - as of: 2026-04-17
+  - quote: "A strong LCP score reduces bounce on landing pages and supports higher conversion rates."
+  - source: https://parachutedesign.ca/blog/largest-contentful-paint/
+- **[echoed-claim]** Parachute Design's guide to Largest Contentful Paint asserts that a strong LCP score supports higher conversion rates.
+  - as of: 2026-04-17
+  - quote: "A strong LCP score reduces bounce on landing pages and supports higher conversion rates."
+  - source: https://parachutedesign.ca/blog/largest-contentful-paint/

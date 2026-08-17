@@ -1,0 +1,9 @@
+{
+  "name": "seo-evidence",
+  "description": "Answers SEO and crawler questions from 1,163 cited, dated primary sources instead of training-data folklore, says which commonly repeated ideas a primary source contradicts and which have no source anyone could find, and audits a live site against the same evidence.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Lotlsoft",
+    "url": "https://lotlsoft.com"
+  }
+}

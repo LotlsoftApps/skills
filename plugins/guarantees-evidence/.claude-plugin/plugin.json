@@ -1,0 +1,9 @@
+{
+  "name": "guarantees-evidence",
+  "description": "Answers questions about Australian consumer guarantees from 873 cited, dated primary sources - the ACCC, the Australian Consumer Law and state consumer regulators - instead of training-data folklore, and says which commonly repeated shop rules a primary source contradicts and which have no source anyone could find. Covers refunds, repairs, replacements, faulty goods, 'no refunds' signs, warranties, durability and proof of purchase. Australia-wide, and not legal advice.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lotlsoft",
+    "url": "https://lotlsoft.com"
+  }
+}

@@ -1,0 +1,321 @@
+# abandoned goods
+
+Compiled 2026-08-16. Every claim carries the date its quote was true; renting law is amended and the regulator rewrites its guidance, both without announcing it.
+
+## Summary
+
+Written from the claims below and checked against them.
+
+In Victoria, a rental provider must store a former renter's goods or belongings for at least 14 days after telling the renter, and Consumer Affairs Victoria says personal documents must be stored for at least 90 days while Dirt2Tidy says up to 90 days. Perishable foods and dangerous goods may be disposed of immediately, though the Law Handbook says protected goods must be stored for at least 14 days even if dangerous or perishable. If goods are not reclaimed within 14 days the provider may sell or dispose of them; the former renter has 6 months from the sale to claim the proceeds, minus an occupation fee of no more than 14 days' rent in total and selling costs, and unclaimed proceeds go to the Residential Tenancies Fund within 30 days. A former renter can ask VCAT for return of goods or documents wrongfully retained, compensation for loss of goods or documents, or an order to store goods for more than 14 days, while as of 21 July 2026 Tenants Victoria states Rental Dispute Resolution Victoria now handles some rental disputes instead of VCAT; the claims also conflict on whether higher-value goods attract longer notice and on whether the Residential Tenancies Fund is in Queensland or Victoria, and do not distinguish tenancy types or fixed term versus periodic agreements.
+
+## Claims (68)
+
+### Documented position (48)
+
+- **[documented-position]** Consumer Affairs Victoria states that personal documents left behind by a renter must be stored in a safe place by the rental provider for at least 90 days.
+  - as of: 2023-02-08
+  - quote: "Personal documents that are left behind by a renter must be stored in a safe place by the rental provider for at least 90 days."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[documented-position]** Consumer Affairs Victoria states that rental providers must store goods that are able to be sold in a safe place for at least 14 days.
+  - as of: 2023-02-08
+  - quote: "Rental providers must store the following goods in a safe place for at least 14 days:"
+  - quote: "goods that are able to be sold"
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[documented-position]** Consumer Affairs Victoria states that the 14-day storage period starts from the date the rental provider first tells the renter about the abandoned goods.
+  - as of: 2023-02-08
+  - quote: "The 14 days starts from the date that the rental provider first tells the renter about the goods."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[documented-position]** Consumer Affairs Victoria states that if abandoned goods are not reclaimed within 14 days the rental provider can sell or get rid of them.
+  - as of: 2023-02-08
+  - quote: "If the renter, or another person who owns the goods, does not reclaim them within 14 days (or within an agreed timeframe, or a different timeframe set by VCAT), the rental provider can sell or get rid of the goods."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[documented-position]** Consumer Affairs Victoria states that a former renter has 6 months to claim money from the sale of abandoned goods, minus the occupation fee and selling costs.
+  - as of: 2023-02-08
+  - quote: "If the rental provider does sell the goods, the former renter has 6 months to claim any money made from the sale, minus the occupation fee and any costs that the rental provider had to pay to sell the goods."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[documented-position]** Tenants Victoria states that the daily occupation fee for storing goods left behind must not be more than the daily rent.
+  - as of: 2026-07-21
+  - quote: "The daily occupation fee must not be more than the daily rent. For example, if your goods were stored for 14 days you could be asked to pay an occupation fee equivalent to 14 days rent [section 388]"
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** Tenants Victoria's statement about the daily occupation fee for storing goods left behind references section 388.
+  - as of: 2026-07-21
+  - quote: "The daily occupation fee must not be more than the daily rent. For example, if your goods were stored for 14 days you could be asked to pay an occupation fee equivalent to 14 days rent [section 388]"
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** Tenants Victoria states that a rental provider, owner or agent must store any goods or belongings a renter left behind for at least 14 days.
+  - as of: 2026-07-21
+  - quote: "The rental provider, owner or agent must store any goods or belongings you left behind for at least 14 days."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** Consumer Affairs Victoria states that a renter is generally considered to have abandoned a Victorian property if they move out without having been given a notice to vacate.
+  - as of: 2025-12-08
+  - quote: "A renter is generally considered to have abandoned a property if they move out but they either have not been given a notice to vacate, or they have not given the rental provider (landlord) a notice of intention to vacate."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/renter-abandoning-a-property
+- **[documented-position]** Consumer Affairs Victoria states that a renter is generally considered to have abandoned a Victorian property if they move out without having given a notice of intention to vacate.
+  - as of: 2025-12-08
+  - quote: "A renter is generally considered to have abandoned a property if they move out but they either have not been given a notice to vacate, or they have not given the rental provider (landlord) a notice of intention to vacate."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/renter-abandoning-a-property
+- **[documented-position]** Consumer Affairs Victoria states that late or unpaid rent does not necessarily mean a renter has abandoned the property.
+  - as of: 2025-12-08
+  - quote: "Late or unpaid rent does not necessarily mean a renter has abandoned the property."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/renter-abandoning-a-property
+- **[documented-position]** Consumer Affairs Victoria states that rental providers can immediately dispose of perishable foods and dangerous goods left behind by a renter.
+  - as of: 2023-02-08
+  - quote: "Rental providers can immediately dispose of:"
+  - quote: "perishable foods (foods that will ‘go off’)"
+  - quote: "dangerous goods"
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[documented-position]** Consumer Affairs Victoria states that a rental provider must take reasonable steps to tell the renter that they left goods behind.
+  - as of: 2023-02-08
+  - quote: "The rental provider must take reasonable steps to tell the renter that they left these goods behind."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[documented-position]** Consumer Affairs Victoria states that the occupation fee for goods left behind cannot be more than 14 days' rent in total.
+  - as of: 2023-02-08
+  - quote: "The occupation fee must not be more than:"
+  - quote: "14 days’ rent in total."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[documented-position]** Consumer Affairs Victoria states that if a former renter does not claim sale proceeds within 6 months, the rental provider must pay the sale proceeds into the Residential Tenancies Fund within 30 days.
+  - as of: 2023-02-08
+  - quote: "If the renter does not make a claim within 6 months, the rental provider must pay the money made from the sale, minus the occupation fee and any costs for selling the goods, into the Residential Tenancies Fund."
+  - quote: "This must be done within 30 days of the end of the 6 period."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[documented-position]** Tenants Victoria states that the 14 days for storage of goods left behind start on the date the rental provider, owner or agent tells the renter they are storing the goods, not on the date the renter moved out.
+  - as of: 2026-07-21
+  - quote: "The 14 days for storage start on the date the rental provider, owner or agent tells you they are storing your things, not on the date you moved out [section 386]."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** Tenants Victoria states that it is an offence to refuse to return a former renter's personal documents after the renter has paid the costs.
+  - as of: 2026-07-21
+  - quote: "It is an offence to refuse to return your personal documents after you paid the costs. The rental provider, owner or agent can be fined [section 382]."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** Tenants Victoria states that the rental provider, owner or agent can be fined.
+  - as of: 2026-07-21
+  - quote: "It is an offence to refuse to return your personal documents after you paid the costs. The rental provider, owner or agent can be fined [section 382]."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** A renter must ask for the proceeds of the sale of their goods within 6 months of the sale.
+  - as of: 2026-07-21
+  - quote: "You need to ask within 6 months of the sale. If you do not, any money left over will be paid to the Residential Tenancies Fund."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** If a renter does not ask for the proceeds of the sale of their goods within 6 months of the sale, any money left over will be paid to the Residential Tenancies Fund.
+  - as of: 2026-07-21
+  - quote: "You need to ask within 6 months of the sale. If you do not, any money left over will be paid to the Residential Tenancies Fund."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** Tenants Victoria states that a renter can apply to VCAT for an order that the rental provider store the renter's belongings for more than 14 days if the rental provider refuses.
+  - as of: 2026-07-21
+  - quote: "You can ask the rental provider, owner or agent to store your belongings for more than 14 days. If they refuse, you can apply to the Victorian Civil and Administrative Tribunal (VCAT) to order them to store your belongings for more than 14 days [section 395]."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** VCAT lists an application to require a rental provider to store goods for more than 14 days as a residential tenancies dispute type.
+  - as of: 2026-08-14
+  - quote: "Require rental provider to store goods for more than 14 days"
+  - source: https://www.vcat.vic.gov.au/case-types/residential-tenancies/common-disputes-and-section-numbers
+- **[documented-position]** The Law Handbook states that the RT Act at section 3 defines personal documents as official documents, photographs, correspondence or any other document which it would be reasonable to expect that a person would want to keep.
+  - as of: 2026-01-29
+  - quote: "The RT Act (s 3) defines personal documents as ‘official documents, photographs, correspondence or any other document which it would be reasonable to expect that a person would want to keep’."
+  - source: https://www.thelawhandbook.org.au/61-tenancy/abandoned-goods
+- **[documented-position]** The Law Handbook states that a rental provider must store protected goods for at least 14 days even if they are of no monetary value, dangerous or perishable.
+  - as of: 2026-01-29
+  - quote: "However, the rental provider must store goods – even if they are of no monetary value, dangerous or perishable – for at least 14 days if they are ‘protected goods’."
+  - source: https://www.thelawhandbook.org.au/61-tenancy/abandoned-goods
+- **[documented-position]** Justice Connect Homeless Law states that the owner of the premises has an obligation to take reasonable care of any personal documents left behind for at least 90 days.
+  - as of: 2021-03-29
+  - quote: "The owner of the premises has an obligation to take reasonable care of any personal documents for at least 90 days:"
+  - source: https://hlip.justiceconnect.org.au/practice-areas/housing-and-tenancy/ending-a-tenancy/goods-left-behind/
+- **[documented-position]** The Law Handbook advises renters to photograph their personal goods, possessions and documents.
+  - as of: 2026-01-29
+  - quote: "It is paramount that renters take photos of their personal goods, possessions and documents. It is preferable to remove as much property as possible rather than leave it in the rented premises."
+  - source: https://www.thelawhandbook.org.au/61-tenancy/abandoned-goods
+- **[documented-position]** The Law Handbook advises renters to remove as much property as possible rather than leave it in the rented premises.
+  - as of: 2026-01-29
+  - quote: "It is paramount that renters take photos of their personal goods, possessions and documents. It is preferable to remove as much property as possible rather than leave it in the rented premises."
+  - source: https://www.thelawhandbook.org.au/61-tenancy/abandoned-goods
+- **[documented-position]** Tenants Victoria advises former renters to collect goods left behind as soon as possible.
+  - as of: 2026-07-21
+  - quote: "Collect your things as soon as possible – the longer you wait, the more there is a chance they could get lost, or you may have to pay for storage."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** Tenants Victoria advises that the longer former renters wait, the more chance former renters may have to pay for storage.
+  - as of: 2026-07-21
+  - quote: "Collect your things as soon as possible – the longer you wait, the more there is a chance they could get lost, or you may have to pay for storage."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** Consumer Affairs Victoria points readers who want to know what the law says about goods left behind to Part 9.
+  - as of: 2023-02-08
+  - quote: "If you want to know what the law says about goods left behind, you can read these sections of the"
+  - quote: "Part 9 – Goods left behind by renters, residents and site tenants."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[documented-position]** Part 9 is headed "Goods left behind by renters, residents and site tenants."
+  - as of: 2023-02-08
+  - quote: "If you want to know what the law says about goods left behind, you can read these sections of the"
+  - quote: "Part 9 – Goods left behind by renters, residents and site tenants."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[documented-position]** Consumer Affairs Victoria states that a rental provider or agent who wants to inspect inside a property they think has been abandoned must still follow the rules for entering a property.
+  - as of: 2025-12-08
+  - quote: "If the rental provider or agent wants to inspect inside a property they think has been abandoned, they must still follow the rules for entering a property."
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/renter-abandoning-a-property
+- **[documented-position]** Consumer Affairs Victoria states that if a renter leaves behind pets when they abandon a property, the rental provider or agent should immediately contact RSPCA Victoria.
+  - as of: 2025-12-08
+  - quote: "If a renter leaves behind pets when they abandon a property, the rental provider or agent should immediately contact"
+  - quote: "RSPCA Victoria"
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/renter-abandoning-a-property
+- **[documented-position]** Consumer Affairs Victoria names Section 91ZG among the sections that apply when a renter abandons a property.
+  - as of: 2025-12-08
+  - quote: "Section 91ZG – Order of Tribunal that premises are abandoned"
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/renter-abandoning-a-property
+- **[documented-position]** Section 91ZG is an Order of Tribunal that premises are abandoned.
+  - as of: 2025-12-08
+  - quote: "Section 91ZG – Order of Tribunal that premises are abandoned"
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/renter-abandoning-a-property
+- **[documented-position]** Tenants Victoria states that a renter can apply to VCAT for compensation if the rental provider, owner or agent damages or loses the renter's belongings or personal documents, whether on purpose or by accident.
+  - as of: 2026-07-21
+  - quote: "If the rental provider, owner or agent damages or loses your belongings or personal documents, either on purpose or by accident, you can apply to VCAT for compensation [section 398]."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** Tenants Victoria states that the 90 days for personal documents starts from the date the rental provider, owner or agent tells the renter.
+  - as of: 2026-07-21
+  - quote: "The 90 days starts from the date the rental provider, owner or agent tells you, not the date you moved out [section 381]."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** Tenants Victoria states that anyone who finds a passport is required to hand it to the nearest Australian passport office, Australian diplomatic mission, consulate or local police station.
+  - as of: 2026-07-21
+  - quote: "For example, anyone who finds a passport is required to hand it to the nearest Australian passport office, Australian diplomatic mission, consulate or local police station."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** The Law Handbook states that a rental provider may only remove and destroy or dispose of abandoned goods if they are of no monetary value, perishable foodstuffs, or dangerous.
+  - as of: 2026-01-29
+  - quote: "Once a renter has vacated a rental property, a rental provider may only remove and destroy or dispose of goods if they are of no monetary value, are perishable foodstuffs, or are dangerous"
+  - source: https://www.thelawhandbook.org.au/61-tenancy/abandoned-goods
+- **[documented-position]** Justice Connect Homeless Law states that the storage period of at least 14 days runs from the day on which notice was given.
+  - as of: 2021-03-29
+  - quote: "store the goods for at least 14 days from the day on which notice was given."
+  - source: https://hlip.justiceconnect.org.au/practice-areas/housing-and-tenancy/ending-a-tenancy/goods-left-behind/
+- **[documented-position]** VCAT lists compensation for loss of goods or documents as a residential tenancies dispute type.
+  - as of: 2026-08-14
+  - quote: "Compensation for loss of goods or documents"
+  - source: https://www.vcat.vic.gov.au/case-types/residential-tenancies/common-disputes-and-section-numbers
+- **[documented-position]** VCAT lists return of goods or documents wrongfully retained as a residential tenancies dispute type.
+  - as of: 2026-08-14
+  - quote: "Return of goods or documents wrongfully retained"
+  - source: https://www.vcat.vic.gov.au/case-types/residential-tenancies/common-disputes-and-section-numbers
+- **[documented-position]** Tenants Victoria advises renters to leave a forwarding address with the rental provider, owner or agent to make it easier to be contacted about anything left behind.
+  - as of: 2026-07-21
+  - quote: "It is also a good idea to leave a forwarding address, email address and phone number with the rental provider, owner or agent, or the Victorian Civil and Administrative Tribunal (VCAT)"
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** Tenants Victoria advises renters to leave an email address with the rental provider, owner or agent to make it easier to be contacted about anything left behind.
+  - as of: 2026-07-21
+  - quote: "It is also a good idea to leave a forwarding address, email address and phone number with the rental provider, owner or agent, or the Victorian Civil and Administrative Tribunal (VCAT)"
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** Tenants Victoria advises renters to leave a phone number with the rental provider, owner or agent to make it easier to be contacted about anything left behind.
+  - as of: 2026-07-21
+  - quote: "It is also a good idea to leave a forwarding address, email address and phone number with the rental provider, owner or agent, or the Victorian Civil and Administrative Tribunal (VCAT)"
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[documented-position]** Rental Dispute Resolution Victoria handles rental disputes.
+  - as of: 2025-06-30
+  - quote: "Rental Dispute Resolution Victoria (RDRV), launched in June 2025, is a new government initiative designed to streamline the handling of rental disputes across the state."
+  - quote: "RDRV offers a new and free service that provides early intervention and structured resolution processes for common issues, including rent increases, repairs, and bond and/or compensation cases"
+  - source: https://reiv.com.au/advocacy/rental-dispute-resolution-victoria
+- **[documented-position]** Rental Dispute Resolution Victoria handles bond cases.
+  - as of: 2025-06-30
+  - quote: "Rental Dispute Resolution Victoria (RDRV), launched in June 2025, is a new government initiative designed to streamline the handling of rental disputes across the state."
+  - quote: "RDRV offers a new and free service that provides early intervention and structured resolution processes for common issues, including rent increases, repairs, and bond and/or compensation cases"
+  - source: https://reiv.com.au/advocacy/rental-dispute-resolution-victoria
+- **[documented-position]** Rental Dispute Resolution Victoria handles compensation cases.
+  - as of: 2025-06-30
+  - quote: "Rental Dispute Resolution Victoria (RDRV), launched in June 2025, is a new government initiative designed to streamline the handling of rental disputes across the state."
+  - quote: "RDRV offers a new and free service that provides early intervention and structured resolution processes for common issues, including rent increases, repairs, and bond and/or compensation cases"
+  - source: https://reiv.com.au/advocacy/rental-dispute-resolution-victoria
+
+### Practical effect (1)
+
+- **[practical-effect]** Tenants Victoria advises that the longer former renters wait, the more chance the goods left behind could get lost.
+  - as of: 2026-07-21
+  - quote: "Collect your things as soon as possible – the longer you wait, the more there is a chance they could get lost, or you may have to pay for storage."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+
+### Changed on (5)
+
+- **[changed-on]** Tenants Victoria's guidance on goods left behind states that Rental Dispute Resolution Victoria now handles some rental disputes instead of VCAT.
+  - as of: 2026-07-21
+  - quote: "Rental Dispute Resolution Victoria (RDRV) now handles some rental disputes instead of VCAT."
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+- **[changed-on]** Consumer Affairs Victoria's guidance page on goods left behind by renters records that the guidance page was last updated on 8 February 2023.
+  - as of: 2023-02-08
+  - quote: "Last updated: 8 February 2023"
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[changed-on]** Consumer Affairs Victoria's guidance page on a renter abandoning a property records that it was last updated on 8 December 2025.
+  - as of: 2025-12-08
+  - quote: "Last updated: 8 December 2025"
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/renter-abandoning-a-property
+- **[changed-on]** Justice Connect Homeless Law's guidance on goods left behind records that it was last updated on 29 March 2021.
+  - as of: 2021-03-29
+  - quote: "Last updated: 29 Mar 2021"
+  - source: https://hlip.justiceconnect.org.au/practice-areas/housing-and-tenancy/ending-a-tenancy/goods-left-behind/
+- **[changed-on]** Rental Dispute Resolution Victoria was launched in June 2025.
+  - as of: 2025-06-30
+  - quote: "Rental Dispute Resolution Victoria (RDRV), launched in June 2025, is a new government initiative designed to streamline the handling of rental disputes across the state."
+  - quote: "RDRV offers a new and free service that provides early intervention and structured resolution processes for common issues, including rent increases, repairs, and bond and/or compensation cases"
+  - source: https://reiv.com.au/advocacy/rental-dispute-resolution-victoria
+
+### Disputed between sources (5)
+
+- **[disputed-between]** Dirt2Tidy states Victorian landlords must store personal documents for up to 90 days, while Consumer Affairs Victoria states personal documents must be stored in a safe place for at least 90 days.
+  - as of: 2026-03-07
+  - quote: "For example, Victorian landlords must store personal documents for up to 90 days, while in Queensland, the period is just seven days."
+  - quote: "Personal documents that are left behind by a renter must be stored in a safe place by the rental provider for at least 90 days."
+  - source: https://dirt2tidy.com.au/blog/how-tenant-belongings-left-behind-rental/
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[disputed-between]** Dirt2Tidy states that in Victoria goods valued at higher than $1,000 attract longer notice requirements.
+  - as of: 2026-03-07
+  - quote: "For example, in Victoria, non-document goods under $1,000 may be disposed of after 14 days’ notice, while higher-value goods have longer notice requirements."
+  - quote: "Rental providers must store the following goods in a safe place for at least 14 days:"
+  - quote: "goods that are able to be sold"
+  - source: https://dirt2tidy.com.au/blog/how-tenant-belongings-left-behind-rental/
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[disputed-between]** Regarding abandoned goods, Dirt2Tidy places the Residential Tenancies Fund in Queensland.
+  - as of: 2026-03-07
+  - quote: "If they don’t claim within six months, landlords are responsible for transferring any remaining sale proceeds (after costs) to a government trust account or tenancy fund—such as the Residential Tenancies Fund in Queensland—within 30 days."
+  - quote: "If the renter does not make a claim within 6 months, the rental provider must pay the money made from the sale, minus the occupation fee and any costs for selling the goods, into the Residential Tenancies Fund."
+  - source: https://dirt2tidy.com.au/blog/how-tenant-belongings-left-behind-rental/
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[disputed-between]** Regarding abandoned goods, Consumer Affairs Victoria states that a Victorian rental provider must pay unclaimed sale proceeds into the Residential Tenancies Fund.
+  - as of: 2026-03-07
+  - quote: "If they don’t claim within six months, landlords are responsible for transferring any remaining sale proceeds (after costs) to a government trust account or tenancy fund—such as the Residential Tenancies Fund in Queensland—within 30 days."
+  - quote: "If the renter does not make a claim within 6 months, the rental provider must pay the money made from the sale, minus the occupation fee and any costs for selling the goods, into the Residential Tenancies Fund."
+  - source: https://dirt2tidy.com.au/blog/how-tenant-belongings-left-behind-rental/
+  - source: https://www.consumer.vic.gov.au/housing/renting/moving-out-giving-notice-and-evictions/goods-left-behind
+- **[disputed-between]** Tenants Victoria states a rental provider, owner or agent must store goods or belongings left behind for at least 14 days
+  - as of: 2026-03-07
+  - quote: "landlords must store them securely for a set period—anything from 7 to 90 days, depending on the type of item and local laws"
+  - quote: "The rental provider, owner or agent must store any goods or belongings you left behind for at least 14 days."
+  - source: https://dirt2tidy.com.au/blog/how-tenant-belongings-left-behind-rental/
+  - source: https://tenantsvic.org.au/explore-topics/ending-your-tenancy/goods-left-behind/
+
+### Echoed without a primary source (9)
+
+- **[echoed-claim]** In Victoria, non-document abandoned goods under $1,000 may be disposed of after 14 days' notice.
+  - as of: 2026-03-07
+  - quote: "For example, in Victoria, non-document goods under $1,000 may be disposed of after 14 days’ notice, while higher-value goods have longer notice requirements."
+  - source: https://dirt2tidy.com.au/blog/how-tenant-belongings-left-behind-rental/
+- **[echoed-claim]** In Victoria, higher-value abandoned goods have longer notice requirements.
+  - as of: 2026-03-07
+  - quote: "For example, in Victoria, non-document goods under $1,000 may be disposed of after 14 days’ notice, while higher-value goods have longer notice requirements."
+  - source: https://dirt2tidy.com.au/blog/how-tenant-belongings-left-behind-rental/
+- **[echoed-claim]** Dirt2Tidy states that Victorian landlords must store personal documents for up to 90 days.
+  - as of: 2026-03-07
+  - quote: "For example, Victorian landlords must store personal documents for up to 90 days, while in Queensland, the period is just seven days."
+  - source: https://dirt2tidy.com.au/blog/how-tenant-belongings-left-behind-rental/
+- **[echoed-claim]** Dirt2Tidy states that under the Residential Tenancies Act 1997 a property is considered abandoned when the tenant has permanently vacated and no longer treats it as their primary residence.
+  - as of: 2026-03-07
+  - quote: "Under the Residential Tenancies Act 1997, a property is considered abandoned when the tenant has permanently vacated and no longer treats it as their primary residence."
+  - source: https://dirt2tidy.com.au/blog/how-tenant-belongings-left-behind-rental/
+- **[echoed-claim]** Haven Agents states that rental providers must give renters notice of goods left behind.
+  - as of: 2021-03-29
+  - quote: "Rental providers must give renters notice of goods left behind and store these in a safe place for at least 14 days after giving the notice."
+  - source: https://www.havenagents.com.au/residential-tenancies-act-changes-2021/
+- **[echoed-claim]** Haven Agents states that rental providers must store goods left behind in a safe place for at least 14 days after giving the notice.
+  - as of: 2021-03-29
+  - quote: "Rental providers must give renters notice of goods left behind and store these in a safe place for at least 14 days after giving the notice."
+  - source: https://www.havenagents.com.au/residential-tenancies-act-changes-2021/
+- **[echoed-claim]** Dirt2Tidy states that landlords cannot dispose of or handle abandoned goods until the lease is officially over and the tenant has fully vacated.
+  - as of: 2026-03-07
+  - quote: "Landlords cannot dispose of or handle any leftover property until the lease is officially over and the tenant has fully vacated."
+  - source: https://dirt2tidy.com.au/blog/how-tenant-belongings-left-behind-rental/
+- **[echoed-claim]** Dirt2Tidy states that if proceeds from the sale of abandoned goods are unclaimed for six months, landlords must transfer the remaining money to a government trust account or tenancy fund within 30 days.
+  - as of: 2026-03-07
+  - quote: "If they don’t claim within six months, landlords are responsible for transferring any remaining sale proceeds (after costs) to a government trust account or tenancy fund—such as the Residential Tenancies Fund in Queensland—within 30 days."
+  - source: https://dirt2tidy.com.au/blog/how-tenant-belongings-left-behind-rental/
+- **[echoed-claim]** Dirt2Tidy states that the Residential Tenancies Fund in Queensland is an example of a tenancy fund in the context of abandoned goods.
+  - as of: 2026-03-07
+  - quote: "If they don’t claim within six months, landlords are responsible for transferring any remaining sale proceeds (after costs) to a government trust account or tenancy fund—such as the Residential Tenancies Fund in Queensland—within 30 days."
+  - source: https://dirt2tidy.com.au/blog/how-tenant-belongings-left-behind-rental/
